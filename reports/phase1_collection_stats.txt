@@ -1,0 +1,35 @@
+========== PHASE 1 STATISTICS ==========
+Collection date: 2026-08-17
+Total postings: 1394
+India postings: 324
+
+--- By Source ---
+greenhouse      | 360
+lever           | 1034
+
+--- By Company ---
+3pillar              | 53
+6sense               | 29
+acceldata            | 42
+altium               | 0
+anaplan              | 174
+bitgo                | 37
+dnb                  | 133
+doordashindia        | 29
+drivetrain           | 37
+hevodata             | 40
+highlevel            | 82
+jumpcloud            | 16
+karat                | 4
+keyloop              | 55
+quantiq              | 11
+resilinc             | 5
+singlestore          | 39
+smart_working        | 13
+spreetail            | 43
+stable_money         | 22
+starrez              | 17
+techholding          | 20
+wing_assistant       | 493
+
+========================================

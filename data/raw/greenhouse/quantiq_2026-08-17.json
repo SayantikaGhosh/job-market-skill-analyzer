@@ -1,0 +1,541 @@
+{
+  "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/quantiq/jobs/4280631009",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4164799009,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": null,
+      "id": 4280631009,
+      "updated_at": "2026-07-13T13:48:38-04:00",
+      "requisition_id": null,
+      "title": "DevOps Engineer",
+      "company_name": "Quantiq",
+      "first_published": "2026-06-10T16:56:28-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;relative w-full&quot;&gt;\n&lt;div class=&quot;relative my-0 mx-auto max-w-[864px]&quot;&gt;\n&lt;div class=&quot;relative scroll-mx-0 scroll-my-10&quot;&gt;\n&lt;div class=&quot;prose w-full max-w-full [overflow-wrap:anywhere] text-left&quot;&gt;\n&lt;p&gt;Quantiq specializes in high frequency derivatives trading in the largest markets worldwide. Our approach is rigorous and pragmatic, driven by technological expertise and analytics informed by real-world experience. We value employees who love to learn and have the tenacity, curiosity and willpower to contribute to our continuing success.&lt;/p&gt;\n&lt;p&gt;We are a small but passionate team, dedicated to enhancing and refining our tried and true methods as we commit to our ongoing growth and performance.&lt;/p&gt;\n&lt;p&gt;Quantiq runs considerable &quot;in-house&quot; infrastructure (IPA realm) consisting of 50-100 computers ranging from high performance servers and varied datacenter hardware (switches, FPGAs, fiber optic cabling), to desktop computers with dedicated GPUs and an array of monitors and peripherals across offices.&lt;/p&gt;\n&lt;p&gt;We control the majority of the stack and create, maintain, update, and monitor a variety of systems to keep the company’s trading running smoothly. Our hardware infrastructure operates entirely on Fedora Linux and incorporates significant first- and third-party software requiring occasional maintenance. This complete infrastructure has high uptime requirements to support our critical trading operations.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Description:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a DevOps Engineer, you’ll be at the forefront of transforming and enhancing our infrastructure. You will collaborate with the Operations and Technical teams to improve our deployment pipelines, automate processes, and elevate our infrastructure.&lt;/p&gt;\n&lt;p&gt;This position requires strong Linux expertise, automation skills, and a deep understanding of network configurations and performance tuning for low-latency applications. If the following resonates with you, we would love to welcome you to our team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Analyze current systems, identify gaps, and spearhead improvements to optimize performance and scalability&lt;/li&gt;\n&lt;li&gt;Fine-tune Linux systems (kernel and user-space) to minimize latency and improve reliability&lt;/li&gt;\n&lt;li&gt;Design and manage real-time, low-latency networking configurations, adjusting kernel parameters, IRQ affinities, and CPU pinning as necessary&lt;/li&gt;\n&lt;li&gt;Implement automation solutions using scripting languages (e.g., Bash, Python)&lt;/li&gt;\n&lt;li&gt;Work with specialized hardware (FPGAs, custom network cards, high-frequency switches) to optimize latency in trading systems&lt;/li&gt;\n&lt;li&gt;Develop and document backup procedures and failover strategies, conducting drills to improve failure tolerance&lt;/li&gt;\n&lt;li&gt;Respond to issues and requests from the Operations and Technical teams&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in a DevOps, Systems Engineering, or related role&lt;/li&gt;\n&lt;li&gt;Proven ability to build, optimize, and scale Linux-based infrastructure&lt;/li&gt;\n&lt;li&gt;Excellent organizational skills and attention to detail in fast-paced environment&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills&lt;/li&gt;\n&lt;li&gt;Ability to respond to occasional off-hour emergencies&lt;/li&gt;\n&lt;li&gt;Strong scripting and automation skills (Python, C++, Bash)&lt;/li&gt;\n&lt;li&gt;Exceptional capability debugging and solving complex issues related to both hardware, low level software, and networking&lt;/li&gt;\n&lt;li&gt;Knowledge of network architecture&lt;/li&gt;\n&lt;li&gt;Basic networking tool experience (ping, ifconfig, telnet, wireshark, nmcli)&lt;/li&gt;\n&lt;li&gt;Experience with the following technologies:&lt;br&gt;\n&lt;ul&gt;\n&lt;li&gt;Computer hardware (such as Supermicro and Dell Servers)&lt;/li&gt;\n&lt;li&gt;Networking hardware&lt;/li&gt;\n&lt;li&gt;Fedora Linux&lt;/li&gt;\n&lt;li&gt;FreeIPA, OpenLDAP, OpenVPN&lt;/li&gt;\n&lt;li&gt;DNS&lt;/li&gt;\n&lt;li&gt;ZFS&lt;/li&gt;\n&lt;li&gt;Gitea, Zulip&lt;/li&gt;\n&lt;li&gt;GRUB, PXE&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;*&lt;em&gt;Note: You are not expected to know every technology listed but experience in all is a plus&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Please Apply If:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You are a problem solver who wants to understand the intricacies of a complex system&lt;/li&gt;\n&lt;li&gt;You’re a scripting pro who automates everything&lt;/li&gt;\n&lt;li&gt;You know the thrill of building, breaking, and re-building CI/CD pipelines&lt;/li&gt;\n&lt;li&gt;You’re excited by the opportunity to build and improve systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please note: The use of AI tools during applications, assessments, and interviews is strictly prohibited. Quantiq utilizes various methods to determine candidate authenticity. Use of these tools at any time may result in the disqualification of your candidacy.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 4057207009,
+          "name": "IT/SysAdmin",
+          "child_ids": [],
+          "parent_id": 4057203009
+        }
+      ],
+      "offices": [
+        {
+          "id": 4057291009,
+          "name": "Austin",
+          "location": "Austin, Texas, United States",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app9.greenhouse.io/ai_opt_out_request/job_post/4280631009/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/quantiq/jobs/4280666009",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4164819009,
+      "location": {
+        "name": "Chicago, IL"
+      },
+      "metadata": null,
+      "id": 4280666009,
+      "updated_at": "2026-07-13T13:49:16-04:00",
+      "requisition_id": null,
+      "title": "Hardware Developer",
+      "company_name": "Quantiq",
+      "first_published": "2026-06-11T17:26:27-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;relative w-full&quot;&gt;\n&lt;div class=&quot;relative my-0 mx-auto max-w-[864px]&quot;&gt;\n&lt;div class=&quot;relative scroll-mx-0 scroll-my-10&quot;&gt;\n&lt;div&gt;\n&lt;div class=&quot;prose w-full max-w-full [overflow-wrap:anywhere] text-left&quot;&gt;\n&lt;p&gt;Quantiq specializes in high frequency derivatives trading in the largest markets worldwide. Our approach is rigorous and pragmatic, driven by technological expertise and analytics, informed by real-world experience. We value employees who love to learn and have the tenacity, curiosity, and willpower to contribute to our continuing success.&lt;/p&gt;\n&lt;p&gt;We are a small but passionate team, dedicated to enhancing and refining our tried and true methods as we commit to our ongoing growth and performance.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Description:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Hardware Developer, you’ll be responsible for designing, optimizing, and maintaining our critical network paths and infrastructure. Working alongside a skilled team of developers, you’ll contribute to our custom FPGA data processing platform, focusing on low-latency digital logic design, IP optimization, and software interfacing drivers. This role demands expert knowledge of digital circuits, tools, and computer architecture, and a relentless drive to push systems to their maximum performance potential. If the following resonates with you, we would love to welcome you to our team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Architect and develop low-latency modules and platforms in Verilog/VHDL, with precise management of multiple clock domains and data streams&lt;/li&gt;\n&lt;li&gt;Design custom network protocol drivers in C++, with focus on performance, concurrency, and memory optimization&lt;/li&gt;\n&lt;li&gt;Document code intricacies, architecture decisions, and optimization strategies to foster knowledge sharing across teams&lt;/li&gt;\n&lt;li&gt;Conduct in-depth debugging and profiling of new and legacy code, implementing fixes that maintain or enhance performance&lt;/li&gt;\n&lt;li&gt;Evaluate system performance and refine technical operations&lt;/li&gt;\n&lt;li&gt;Write quality, highly performant code (Verilog/VHDL and C/C++)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years in Hardware Development, preferably in low-latency or performance-sensitive environments&lt;/li&gt;\n&lt;li&gt;Familiarity with network protocols, hardware build scripting,&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience with Xilinx Vivado, FPGAs, and IP&lt;/li&gt;\n&lt;li&gt;Advanced proficiency in Verilog, SystemVerilog, and/or VHDL, and C/C++&lt;/li&gt;\n&lt;li&gt;Excellent communication skills within a collaborative environment&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to respond promptly and accurately in a fast-paced, dynamic environment&lt;/li&gt;\n&lt;li&gt;Strong skills in solving complex mathematical and engineering challenges&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Please Apply If:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You are enthusiastic about the latest developments in circuits and FPGA boards&lt;/li&gt;\n&lt;li&gt;You have hands-on experience with high-performance infrastructure&lt;/li&gt;\n&lt;li&gt;You’re comfortable navigating large codebases&lt;/li&gt;\n&lt;li&gt;You enjoy performance tuning and digging into low-level system details&lt;/li&gt;\n&lt;li&gt;You think of ways to solve complex engineering challenges even when you’re off the clock&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please note: The use of AI tools during applications, assessments, and interviews is strictly prohibited. Quantiq utilizes various methods to determine candidate authenticity. Use of these tools at any time may result in the disqualification of your candidacy.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 4057206009,
+          "name": "Hardware",
+          "child_ids": [],
+          "parent_id": 4057203009
+        }
+      ],
+      "offices": [
+        {
+          "id": 4057292009,
+          "name": "Chicago",
+          "location": "Chicago, Illinois, United States",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app9.greenhouse.io/ai_opt_out_request/job_post/4280666009/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/quantiq/jobs/4280673009",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 4164827009,
+      "location": {
+        "name": "Chicago, IL"
+      },
+      "metadata": null,
+      "id": 4280673009,
+      "updated_at": "2026-07-13T13:50:06-04:00",
+      "requisition_id": null,
+      "title": "Hardware Developer- New Graduate",
+      "company_name": "Quantiq",
+      "first_published": "2026-06-11T17:26:28-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;p&gt;Quantiq specializes in high frequency derivatives trading in the largest markets worldwide. Our approach is rigorous and pragmatic, driven by technological expertise and analytics, informed by real-world experience. We value employees who love to learn and have the tenacity, curiosity, and willpower to contribute to our continuing success.&lt;/p&gt;\n&lt;p&gt;We are a small but passionate team, dedicated to enhancing and refining our tried and true methods as we commit to our ongoing growth and performance.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Description:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Hardware Developer-New Graduate, you will work in our Chicago office, both independently and collaboratively, to fuel the continuous advancement of our production trading environment. Your scope of responsibilities will span the entire network stack, from packet processing in FPGA NICs to PCIe crossings to kernel socket engineering. You will own each project you work on and deliver thoughtful and articulate insights with regular updates. If the following resonates with you, we would love to welcome you to our team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Maintain and enhance existing hardware and low-level software infrastructure&lt;/li&gt;\n&lt;li&gt;Collaborate with the Operations and Technical teams to develop solutions to meet business needs&lt;/li&gt;\n&lt;li&gt;Evaluate the performance of existing systems and streamline technical operations&lt;/li&gt;\n&lt;li&gt;Write quality, highly performant code (Verilog/VHDL and C/C++)&lt;/li&gt;\n&lt;li&gt;Effectively monitor and communicate project releases across the organization&lt;/li&gt;\n&lt;li&gt;Perform deep dive analysis and debugging of new and existing code&lt;/li&gt;\n&lt;li&gt;Conduct comprehensive analysis and testing on extensive datasets&lt;/li&gt;\n&lt;li&gt;Other duties as assigned or needed&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;1+ years experience in a hardware development environment&lt;/li&gt;\n&lt;li&gt;Adept in Verilog, SystemVerilog, and/or VHDL, and familiar with C or C++&lt;/li&gt;\n&lt;li&gt;Knowledgeable about Xilinx Vivado, FPGAs, and IPs&lt;/li&gt;\n&lt;li&gt;Familiar with networking protocols such as TCP/IP and UDP&lt;/li&gt;\n&lt;li&gt;Proficient in Basic Linux, including SSH&lt;/li&gt;\n&lt;li&gt;Interest in writing highly performant code&lt;/li&gt;\n&lt;li&gt;Excellent communication skills within a collaborative environment&lt;/li&gt;\n&lt;li&gt;A degree in a field such as electrical engineering, computer engineering, physics or a related field, or equivalent practical experience, is preferred&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Please Apply If:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You&#39;re ready to embrace discussions and express your ideas&lt;/li&gt;\n&lt;li&gt;Your have an interest in interfacing software systems&lt;/li&gt;\n&lt;li&gt;You go to bed thinking of ways to solve hard problems&lt;/li&gt;\n&lt;li&gt;You have an inquisitive nature, open mind, and passion for learning&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please note: The use of AI tools during applications, assessments, and interviews is strictly prohibited. Quantiq utilizes various methods to determine candidate authenticity. Use of these tools at any time may result in the disqualification of your candidacy.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 4057206009,
+          "name": "Hardware",
+          "child_ids": [],
+          "parent_id": 4057203009
+        }
+      ],
+      "offices": [
+        {
+          "id": 4057292009,
+          "name": "Chicago",
+          "location": "Chicago, Illinois, United States",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app9.greenhouse.io/ai_opt_out_request/job_post/4280673009/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/quantiq/jobs/4280635009",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4164804009,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": null,
+      "id": 4280635009,
+      "updated_at": "2026-07-13T13:50:48-04:00",
+      "requisition_id": null,
+      "title": "IT Operations Engineer",
+      "company_name": "Quantiq",
+      "first_published": "2026-06-10T16:07:16-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;p&gt;Quantiq specializes in high frequency derivatives trading in the largest markets worldwide. Our approach is rigorous and pragmatic, driven by technological expertise and analytics informed by real-world experience. We value employees who love to learn and have the tenacity, curiosity and willpower to contribute to our continuing success.&lt;/p&gt;\n&lt;p&gt;We are a small but passionate team, dedicated to enhancing and refining our tried and true methods as we commit to our ongoing growth and performance.&lt;/p&gt;\n&lt;p&gt;Quantiq runs considerable &quot;in-house&quot; infrastructure (IPA realm) consisting of 50-100 computers ranging from high performance servers and varied datacenter hardware (switches, FPGAs, fiber optic cabling), to desktop computers with dedicated GPUs and an array of monitors and peripherals across offices.&lt;/p&gt;\n&lt;p&gt;We control the majority of the stack and create, maintain, update, and monitor a variety of systems to keep the company’s trading running smoothly. Our hardware infrastructure operates entirely on Fedora Linux and incorporates significant first- and third-party software requiring occasional maintenance. This complete infrastructure has high uptime requirements to support our critical trading operations.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Description:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As an IT Operations Engineer, you will be responsible for managing and maintaining the core IT infrastructure, ensuring that systems run smoothly and are consistently optimized. This role requires a mix of technical skills and the ability to troubleshoot a range of hardware, network, and software issues. You will work closely with both the Technical and Operations teams to provide support, implement solutions, and contribute to the overall success of our IT operations. If the following resonates with you, we would love to welcome you to our team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Monitor, maintain, and optimize IT infrastructure, including servers, networks, storage, and databases&lt;/li&gt;\n&lt;li&gt;Oversee the full system lifecycle, including provisioning, installation, configuration, asset management, monitoring, maintenance, and decommissioning of various systems&lt;/li&gt;\n&lt;li&gt;Work with vendors to procure and deploy new hardware&lt;/li&gt;\n&lt;li&gt;Respond to issues and requests from the Operations and Technical teams&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in IT operations, systems engineering, or a related role&lt;/li&gt;\n&lt;li&gt;Strong knowledge of networking protocols and tools (TCP/IP, DNS, DHCP, VPN)&lt;/li&gt;\n&lt;li&gt;Familiarity with scripting and automation tools (e.g., Bash, PowerShell, Python)&lt;/li&gt;\n&lt;li&gt;Exceptional capability debugging and solving complex issues related to both hardware, low level software, and networking&lt;/li&gt;\n&lt;li&gt;Knowledge of network architecture&lt;/li&gt;\n&lt;li&gt;Excellent organizational skills and attention to detail in fast-paced environment&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills&lt;/li&gt;\n&lt;li&gt;Ability to respond to occasional off-hour emergencies&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Please Apply If:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You excel at diagnosing and resolving complex technical issues across hardware, software, and network layers&lt;/li&gt;\n&lt;li&gt;You enjoy learning and working with new technologies and platforms&lt;/li&gt;\n&lt;li&gt;You have experience with command-line tools for troubleshooting and system management (e.g., Bash, PowerShell)&lt;/li&gt;\n&lt;li&gt;You feel at home scripting and automating tasks&lt;/li&gt;\n&lt;li&gt;You understand and can configure networking protocols (TCP/IP, DNS, DHCP)&lt;/li&gt;\n&lt;li&gt;You’re skilled in creating backup solutions and disaster recovery plans, and you regularly test recovery processes to ensure reliability&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please note: The use of AI tools during applications, assessments, and interviews is strictly prohibited. Quantiq utilizes various methods to determine candidate authenticity. Use of these tools at any time may result in the disqualification of your candidacy.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 4057207009,
+          "name": "IT/SysAdmin",
+          "child_ids": [],
+          "parent_id": 4057203009
+        }
+      ],
+      "offices": [
+        {
+          "id": 4057291009,
+          "name": "Austin",
+          "location": "Austin, Texas, United States",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app9.greenhouse.io/ai_opt_out_request/job_post/4280635009/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/quantiq/jobs/4366797009",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4212398009,
+      "location": {
+        "name": "Gurugram IN"
+      },
+      "metadata": null,
+      "id": 4366797009,
+      "updated_at": "2026-08-12T13:12:39-04:00",
+      "requisition_id": null,
+      "title": "Market Operations Analyst (APAC/Europe Session)",
+      "company_name": "Quantiq",
+      "first_published": "2026-08-12T13:12:39-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;relative w-full&quot;&gt;\n&lt;div class=&quot;relative my-0 mx-auto max-w-[864px]&quot;&gt;\n&lt;div class=&quot;relative scroll-mx-0 scroll-my-10&quot;&gt;\n&lt;div class=&quot;prose w-full max-w-full [overflow-wrap:anywhere] text-left&quot;&gt;\n&lt;p&gt;Quantiq specializes in high frequency derivatives trading in the largest markets worldwide. Our approach is rigorous and pragmatic, driven by technological expertise and analytics, informed by real-world experience. We value employees who love to learn and have the tenacity, curiosity and willpower to contribute to our continuing success.&lt;/p&gt;\n&lt;p&gt;We are a small but passionate team, dedicated to enhancing and refining our tried and true methods as we commit to our ongoing growth and performance.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Description:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Market Operations Analyst, you will be responsible for monitoring Quantiq’s live trading environment. You’ll help oversee and support live trading activity during the Asian and/or European trading sessions. Your insights into the relationship between infrastructure, data, and market behavior will help shape operational decisions and contribute directly to the success of our overnight trading strategies. If the following resonates with you, we would love to welcome you to our team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Schedule:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Quantiq operates a 23/6, follow-the-sun trading model across global markets. Market Operations Analysts are expected to support this model by working within designated trading sessions and maintaining reliable coverage during their scheduled hours.&lt;/p&gt;\n&lt;p&gt;This position is primarily aligned with &lt;strong&gt;APAC and European hours&lt;/strong&gt;, with occasional rotation into &lt;strong&gt;U.S. trading sessions&lt;/strong&gt;:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;APAC hours&lt;/strong&gt;: 4:30 p.m. – 12:30 a.m.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;European hours&lt;/strong&gt;: 12:30 a.m. – 8:00 a.m.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;U.S. hours&lt;/strong&gt;: 8:00 a.m. – 4:15 p.m.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;*Note all times are listed in EST&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Analyze markets and news-flow to optimize existing trading operations&lt;/li&gt;\n&lt;li&gt;Calculate daily P&amp;amp;L and position balances&lt;/li&gt;\n&lt;li&gt;Collaborate with the tech team to identify and resolve production issues&lt;/li&gt;\n&lt;li&gt;Support the release of new algorithms by responding and documenting unusual behaviors or market conditions&lt;/li&gt;\n&lt;li&gt;Develop analytical tools and processes to enhance operational platforms&lt;/li&gt;\n&lt;li&gt;Assist the tech team in the conversion of manual processes to automatic systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Exceptional attention to detail&lt;/li&gt;\n&lt;li&gt;Ability to work efficiently in a fast-paced environment&lt;/li&gt;\n&lt;li&gt;Reliable and adaptable team player&lt;/li&gt;\n&lt;li&gt;Ability to communicate technical concepts to a variety of audiences&lt;/li&gt;\n&lt;li&gt;Comfortable building tools for automation&lt;/li&gt;\n&lt;li&gt;Willingness to learn about financial systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years experience in an analytical field or comparable detail oriented environment&lt;/li&gt;\n&lt;li&gt;Bachelor’s degree in a quantitative discipline (CS, Engineering, Physics, Math, etc.)&lt;/li&gt;\n&lt;li&gt;Experience in Python and Excel&lt;/li&gt;\n&lt;li&gt;Strong knowledge of Linux&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Please Apply If:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You communicate clearly and are comfortable sharing ideas, observations, and concerns&lt;/li&gt;\n&lt;li&gt;You welcome constructive feedback and see challenges as opportunities to learn&lt;/li&gt;\n&lt;li&gt;You have a strong analytical mindset and take pride in getting the details right&lt;/li&gt;\n&lt;li&gt;You stay calm under pressure and can maintain focus in fast-moving, real-time environments&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note, this is not a Developer or Trader Role. If you are interested in these positions, we encourage you to apply on the careers page of our website.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please note: The use of AI tools during applications, assessments, and interviews is strictly prohibited. Quantiq utilizes various methods to determine candidate authenticity. Use of these tools at any time may result in the disqualification of your candidacy.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 4057204009,
+          "name": "Operations",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "offices": [
+        {
+          "id": 4057442009,
+          "name": "Gurugram",
+          "location": "Gurugram, Haryana, India",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app9.greenhouse.io/ai_opt_out_request/job_post/4366797009/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/quantiq/jobs/4280663009",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4164817009,
+      "location": {
+        "name": "Austin TX, Chicago IL, London UK"
+      },
+      "metadata": null,
+      "id": 4280663009,
+      "updated_at": "2026-08-12T13:12:09-04:00",
+      "requisition_id": null,
+      "title": "Market Operations Analyst (APAC/Europe Session)",
+      "company_name": "Quantiq",
+      "first_published": "2026-06-11T17:26:29-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;relative w-full&quot;&gt;\n&lt;div class=&quot;relative my-0 mx-auto max-w-[864px]&quot;&gt;\n&lt;div class=&quot;relative scroll-mx-0 scroll-my-10&quot;&gt;\n&lt;div class=&quot;prose w-full max-w-full [overflow-wrap:anywhere] text-left&quot;&gt;\n&lt;p&gt;Quantiq specializes in high frequency derivatives trading in the largest markets worldwide. Our approach is rigorous and pragmatic, driven by technological expertise and analytics, informed by real-world experience. We value employees who love to learn and have the tenacity, curiosity and willpower to contribute to our continuing success.&lt;/p&gt;\n&lt;p&gt;We are a small but passionate team, dedicated to enhancing and refining our tried and true methods as we commit to our ongoing growth and performance.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Description:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Market Operations Analyst, you will be responsible for monitoring Quantiq’s live trading environment. You’ll help oversee and support live trading activity during the Asian and/or European trading sessions. Your insights into the relationship between infrastructure, data, and market behavior will help shape operational decisions and contribute directly to the success of our overnight trading strategies. If the following resonates with you, we would love to welcome you to our team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Schedule:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Quantiq operates a 23/6, follow-the-sun trading model across global markets. Market Operations Analysts are expected to support this model by working within designated trading sessions and maintaining reliable coverage during their scheduled hours.&lt;/p&gt;\n&lt;p&gt;This position is primarily aligned with &lt;strong&gt;APAC and European hours&lt;/strong&gt;, with occasional rotation into &lt;strong&gt;U.S. trading sessions&lt;/strong&gt;:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;APAC hours&lt;/strong&gt;: 4:30 p.m. – 12:30 a.m.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;European hours&lt;/strong&gt;: 12:30 a.m. – 8:00 a.m.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;U.S. hours&lt;/strong&gt;: 8:00 a.m. – 4:15 p.m.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;*Note all times are listed in EST&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Analyze markets and news-flow to optimize existing trading operations&lt;/li&gt;\n&lt;li&gt;Calculate daily P&amp;amp;L and position balances&lt;/li&gt;\n&lt;li&gt;Collaborate with the tech team to identify and resolve production issues&lt;/li&gt;\n&lt;li&gt;Support the release of new algorithms by responding and documenting unusual behaviors or market conditions&lt;/li&gt;\n&lt;li&gt;Develop analytical tools and processes to enhance operational platforms&lt;/li&gt;\n&lt;li&gt;Assist the tech team in the conversion of manual processes to automatic systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Exceptional attention to detail&lt;/li&gt;\n&lt;li&gt;Ability to work efficiently in a fast-paced environment&lt;/li&gt;\n&lt;li&gt;Reliable and adaptable team player&lt;/li&gt;\n&lt;li&gt;Ability to communicate technical concepts to a variety of audiences&lt;/li&gt;\n&lt;li&gt;Comfortable building tools for automation&lt;/li&gt;\n&lt;li&gt;Willingness to learn about financial systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years experience in an analytical field or comparable detail oriented environment&lt;/li&gt;\n&lt;li&gt;Bachelor’s degree in a quantitative discipline (CS, Engineering, Physics, Math, etc.)&lt;/li&gt;\n&lt;li&gt;Experience in Python and Excel&lt;/li&gt;\n&lt;li&gt;Strong knowledge of Linux&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Please Apply If:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You communicate clearly and are comfortable sharing ideas, observations, and concerns&lt;/li&gt;\n&lt;li&gt;You welcome constructive feedback and see challenges as opportunities to learn&lt;/li&gt;\n&lt;li&gt;You have a strong analytical mindset and take pride in getting the details right&lt;/li&gt;\n&lt;li&gt;You stay calm under pressure and can maintain focus in fast-moving, real-time environments&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note, this is not a Developer or Trader Role. If you are interested in these positions, we encourage you to apply on the careers page of our website.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please note: The use of AI tools during applications, assessments, and interviews is strictly prohibited. Quantiq utilizes various methods to determine candidate authenticity. Use of these tools at any time may result in the disqualification of your candidacy.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 4057204009,
+          "name": "Operations",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "offices": [
+        {
+          "id": 4057291009,
+          "name": "Austin",
+          "location": "Austin, Texas, United States",
+          "child_ids": [],
+          "parent_id": null
+        },
+        {
+          "id": 4057292009,
+          "name": "Chicago",
+          "location": "Chicago, Illinois, United States",
+          "child_ids": [],
+          "parent_id": null
+        },
+        {
+          "id": 4057293009,
+          "name": "London",
+          "location": "London, England, United Kingdom",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app9.greenhouse.io/ai_opt_out_request/job_post/4280663009/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/quantiq/jobs/4279814009",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4164319009,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": null,
+      "id": 4279814009,
+      "updated_at": "2026-07-13T13:51:59-04:00",
+      "requisition_id": null,
+      "title": "Software Developer",
+      "company_name": "Quantiq",
+      "first_published": "2026-06-11T17:26:29-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;p&gt;Quantiq specializes in high frequency derivatives trading in the largest markets worldwide. Our approach is rigorous and pragmatic, driven by technological expertise and analytics, informed by real-world experience. We value employees who love to learn and have the tenacity, curiosity, and willpower to contribute to our continuing success.&lt;/p&gt;\n&lt;p&gt;We are a small but passionate team, dedicated to enhancing and refining our tried and true methods as we commit to our ongoing growth and performance.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Description:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Software Developer, you’ll be responsible for designing, optimizing, and maintaining our core applications and infrastructure. Working alongside a skilled team of developers, you’ll contribute at both the system and application levels, focusing on low-latency programming, concurrency, memory optimization, and precise code design. This role demands expert knowledge of system internals and a relentless drive to push systems to their maximum performance potential. If the following resonates with you, we would love to welcome you to our team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Architect and develop low-latency applications in C++ and Python, with precise tuning of memory usage, CPU affinity, and hardware interactions&lt;/li&gt;\n&lt;li&gt;Document code intricacies, architecture decisions, and optimization strategies to foster knowledge sharing across teams&lt;/li&gt;\n&lt;li&gt;Conduct in-depth debugging and profiling of new and legacy code, implementing fixes that maintain or enhance performance&lt;/li&gt;\n&lt;li&gt;Evaluate system performance and refine technical operations&lt;/li&gt;\n&lt;li&gt;Write quality, highly performant code (C++ or Python)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years in Software Development, preferably in low-latency or performance-sensitive environments&lt;/li&gt;\n&lt;li&gt;Familiarity with network protocols, packet analysis, and optimization techniques for low-latency systems&lt;/li&gt;\n&lt;li&gt;Advanced proficiency in Python and/or C++&lt;/li&gt;\n&lt;li&gt;Excellent communication skills within a collaborative environment&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to respond promptly and accurately in a fast-paced, dynamic environment&lt;/li&gt;\n&lt;li&gt;Strong skills in solving complex mathematical and coding challenges&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Please Apply If:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You are enthusiastic about the latest developments in C++ and Python&lt;/li&gt;\n&lt;li&gt;You have hands-on experience with high-performance infrastructure&lt;/li&gt;\n&lt;li&gt;You enjoy performance tuning and digging into low-level system details&lt;/li&gt;\n&lt;li&gt;You’re comfortable navigating large codebases&lt;/li&gt;\n&lt;li&gt;You think of ways to solve complex coding challenges even when you’re off the clock&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please note: The use of AI tools during applications, assessments, and interviews is strictly prohibited. Quantiq utilizes various methods to determine candidate authenticity. Use of these tools at any time may result in the disqualification of your candidacy.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 4057205009,
+          "name": "SoftDev",
+          "child_ids": [],
+          "parent_id": 4057203009
+        }
+      ],
+      "offices": [
+        {
+          "id": 4057291009,
+          "name": "Austin",
+          "location": "Austin, Texas, United States",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app9.greenhouse.io/ai_opt_out_request/job_post/4279814009/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 4169544009,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": null,
+      "id": 4287936009,
+      "updated_at": "2026-07-15T15:59:13-04:00",
+      "requisition_id": null,
+      "title": "Software Developer Internship (Summer 2027)",
+      "company_name": "Quantiq",
+      "first_published": "2026-06-17T12:34:01-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;p&gt;Quantiq specializes in high frequency derivatives trading in the largest markets worldwide. Our approach is rigorous and pragmatic, driven by technological expertise and analytics informed by real-world experience. We value employees who love to learn and have the tenacity, curiosity and willpower to contribute to our continuing success.&lt;/p&gt;\n&lt;p&gt;We are a small but passionate team, dedicated to enhancing and refining our tried and true methods as we commit to our ongoing growth and performance.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Description:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Software Developer Intern at Quantiq, you will work in our Austin office, both independently and collaboratively, to fuel the continuous advancement of our production trading environment. Your responsibilities will span a range of projects, involving topics such as network packet processing, messaging specifications, and financial data processing, among others. You will own each project you work on and deliver thoughtful and articulate insights with regular updates. If the following resonates with you, we would love to welcome you to our team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Maintain and enhance existing infrastructure and other software systems&lt;/li&gt;\n&lt;li&gt;Collaborate with the Operations and Technical teams to develop solutions to meet business needs&lt;/li&gt;\n&lt;li&gt;Evaluate the performance of existing systems and streamline technical operations&lt;/li&gt;\n&lt;li&gt;Write quality, highly performant code (C++ or Python)&lt;/li&gt;\n&lt;li&gt;Effectively monitor and communicate project releases across the organization&lt;/li&gt;\n&lt;li&gt;Perform deep dive analysis and debugging of new and existing code&lt;/li&gt;\n&lt;li&gt;Conduct comprehensive analysis and testing on extensive datasets&lt;/li&gt;\n&lt;li&gt;Other duties as assigned or needed&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Adept in Python and/or C++&lt;/li&gt;\n&lt;li&gt;Familiar with networking protocols such as TCP/IP and UDP&lt;/li&gt;\n&lt;li&gt;Interest in writing highly performant code&lt;/li&gt;\n&lt;li&gt;Excellent communication skills within a collaborative environment&lt;/li&gt;\n&lt;li&gt;Expected graduation date between December 2027 and June 2028, with junior standing or higher&lt;/li&gt;\n&lt;li&gt;A degree in a field such as computer engineering, computer science, mathematics or a related field, is preferred&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Please Apply If:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You own your projects from beginning to end&lt;/li&gt;\n&lt;li&gt;You thrive without direct guidance and prefer autonomy&lt;/li&gt;\n&lt;li&gt;Speaking up and expressing your ideas comes naturally to you&lt;/li&gt;\n&lt;li&gt;You&#39;re ready to embrace discussions and constructive feedback&lt;/li&gt;\n&lt;li&gt;You go to bed thinking of ways to solve hard problems&lt;/li&gt;\n&lt;li&gt;You have an inquisitive nature, open mind, and passion for learning&lt;/li&gt;\n&lt;li&gt;You enjoy working through puzzles and solving math problems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please note: The use of AI tools during applications, assessments, and interviews is strictly prohibited. Quantiq utilizes various methods to determine candidate authenticity. Use of these tools at any time may result in the disqualification of your candidacy.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 4057205009,
+          "name": "SoftDev",
+          "child_ids": [],
+          "parent_id": 4057203009
+        }
+      ],
+      "offices": [
+        {
+          "id": 4057291009,
+          "name": "Austin",
+          "location": "Austin, Texas, United States",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app9.greenhouse.io/ai_opt_out_request/job_post/4287936009/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/quantiq/jobs/4280650009",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "education": "education_required",
+      "internal_job_id": 4164813009,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": null,
+      "id": 4280650009,
+      "updated_at": "2026-07-13T13:52:59-04:00",
+      "requisition_id": null,
+      "title": "Software Developer- New Graduate",
+      "company_name": "Quantiq",
+      "first_published": "2026-06-11T17:26:30-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;p&gt;Quantiq specializes in high frequency derivatives trading in the largest markets worldwide. Our approach is rigorous and pragmatic, driven by technological expertise and analytics, informed by real-world experience. We value employees who love to learn and have the tenacity, curiosity, and willpower to contribute to our continuing success.&lt;/p&gt;\n&lt;p&gt;We are a small but passionate team, dedicated to enhancing and refining our tried and true methods as we commit to our ongoing growth and performance.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Description:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Software Developer-New Graduate, you will work in our Austin office, both independently and collaboratively, to fuel the continuous advancement of our production trading environment. Your responsibilities will span a range of projects, involving topics such as network packet processing, messaging specifications, and financial data processing, among others. You will own each project you work on and deliver thoughtful and articulate insights with regular updates. If the following resonates with you, we would love to welcome you to our team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Maintain and enhance existing infrastructure and other software systems&lt;/li&gt;\n&lt;li&gt;Collaborate with the Operations and Technical teams to develop solutions to meet business needs&lt;/li&gt;\n&lt;li&gt;Evaluate the performance of existing systems and streamline technical operations&lt;/li&gt;\n&lt;li&gt;Write quality, highly performant code (C++ or Python)&lt;/li&gt;\n&lt;li&gt;Effectively monitor and communicate project releases across the organization&lt;/li&gt;\n&lt;li&gt;Perform deep dive analysis and debugging of new and existing code&lt;/li&gt;\n&lt;li&gt;Conduct comprehensive analysis and testing on extensive datasets&lt;/li&gt;\n&lt;li&gt;Other duties as assigned or needed&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;1+ years experience in a software environment&lt;/li&gt;\n&lt;li&gt;Adept in Python and C++&lt;/li&gt;\n&lt;li&gt;Familiar with networking protocols such as TCP/IP and UDP&lt;/li&gt;\n&lt;li&gt;Proficient in Basic Linux, including SSH&lt;/li&gt;\n&lt;li&gt;Interest in writing highly performant code&lt;/li&gt;\n&lt;li&gt;Excellent communication skills within a collaborative environment&lt;/li&gt;\n&lt;li&gt;A degree in a field such as computer engineering, computer science, mathematics or a related field, or equivalent practical experience, is preferred&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Please Apply If:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You own your projects from beginning to end&lt;/li&gt;\n&lt;li&gt;You&#39;re ready to embrace discussions and express your ideas&lt;/li&gt;\n&lt;li&gt;You go to bed thinking of ways to solve hard puzzles and math problems&lt;/li&gt;\n&lt;li&gt;You have an inquisitive nature, open mind, and passion for learning&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please note: The use of AI tools during applications, assessments, and interviews is strictly prohibited. Quantiq utilizes various methods to determine candidate authenticity. Use of these tools at any time may result in the disqualification of your candidacy.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 4057205009,
+          "name": "SoftDev",
+          "child_ids": [],
+          "parent_id": 4057203009
+        }
+      ],
+      "offices": [
+        {
+          "id": 4057291009,
+          "name": "Austin",
+          "location": "Austin, Texas, United States",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app9.greenhouse.io/ai_opt_out_request/job_post/4280650009/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/quantiq/jobs/4302276009",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4177215009,
+      "location": {
+        "name": "Gurugram, India"
+      },
+      "metadata": null,
+      "id": 4302276009,
+      "updated_at": "2026-07-13T13:53:43-04:00",
+      "requisition_id": null,
+      "title": "Software Engineer, C++",
+      "company_name": "Quantiq",
+      "first_published": "2026-06-30T12:22:25-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;p&gt;&lt;strong&gt;About Us:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2016, Quantiq has pushed to the leading edge of high frequency derivatives trading. Our commitment to excellence at every level, positions us not just as market participants, but as formidable competitors.&lt;/p&gt;\n&lt;p&gt;We are a team of innovators, go-getters, doers, and leaders, dedicated to improving a little bit everyday. We face each challenge with expert precision and pursue excellence without limits. We value employees who love to learn and have the tenacity, curiosity, and willpower to contribute to our continuing success. If the following resonates with you, we would love to welcome you to our team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Description&lt;/strong&gt;:&lt;/p&gt;\n&lt;p&gt;As a Software Engineer, you’ll be responsible for designing, optimizing, and maintaining our core applications and infrastructure. You’ll contribute at both the system and application levels, focusing on low-latency programming, concurrency, memory optimization, and precise code design. This role demands expert knowledge of system internals and a relentless drive to push systems to their maximum performance potential.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Architect and develop low-latency applications in C++, with precise tuning of memory usage, CPU affinity, and hardware interactions&lt;/li&gt;\n&lt;li&gt;Document code intricacies, architecture decisions, and optimization strategies to foster knowledge sharing across teams&lt;/li&gt;\n&lt;li&gt;Conduct in-depth debugging and profiling of new and legacy code, implementing fixes that maintain or enhance performance&lt;/li&gt;\n&lt;li&gt;Evaluate system performance and refine technical operations&lt;/li&gt;\n&lt;li&gt;Write quality, highly performant code&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;2+ years in Software Engineering, preferably in low-latency or performance-sensitive environments&lt;/li&gt;\n&lt;li&gt;Familiarity with network protocols, packet analysis, and optimization techniques for low-latency systems&lt;/li&gt;\n&lt;li&gt;Advanced proficiency in C++&lt;/li&gt;\n&lt;li&gt;Excellent communication skills within a collaborative environment&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to respond promptly and accurately in a fast-paced, dynamic environment&lt;/li&gt;\n&lt;li&gt;Strong skills in solving complex mathematical and coding challenges&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Please Apply If:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You are enthusiastic about the latest developments in C++&lt;/li&gt;\n&lt;li&gt;You have hands-on experience with high-performance infrastructure&lt;/li&gt;\n&lt;li&gt;You enjoy performance tuning and digging into low-level system details&lt;/li&gt;\n&lt;li&gt;You’re comfortable navigating large codebases&lt;/li&gt;\n&lt;li&gt;You think of ways to solve complex coding challenges even when you’re off the clock&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please note: The use of AI tools during applications, assessments, and interviews is strictly prohibited. Quantiq utilizes various methods to determine candidate authenticity. Use of these tools at any time may result in the disqualification of your candidacy.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 4057205009,
+          "name": "SoftDev",
+          "child_ids": [],
+          "parent_id": 4057203009
+        }
+      ],
+      "offices": [
+        {
+          "id": 4057442009,
+          "name": "Gurugram",
+          "location": "Gurugram, Haryana, India",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app9.greenhouse.io/ai_opt_out_request/job_post/4302276009/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/quantiq/jobs/4280643009",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4164809009,
+      "location": {
+        "name": "Austin, TX"
+      },
+      "metadata": null,
+      "id": 4280643009,
+      "updated_at": "2026-07-14T14:39:39-04:00",
+      "requisition_id": null,
+      "title": "System Administrator (Linux and Datacenter)",
+      "company_name": "Quantiq",
+      "first_published": "2026-06-11T17:26:31-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;relative w-full&quot;&gt;\n&lt;div class=&quot;relative my-0 mx-auto max-w-[864px]&quot;&gt;\n&lt;div class=&quot;relative scroll-mx-0 scroll-my-10&quot;&gt;\n&lt;div class=&quot;prose w-full max-w-full [overflow-wrap:anywhere] text-left&quot;&gt;\n&lt;p&gt;Quantiq specializes in high frequency derivatives trading in the largest markets worldwide. Our approach is rigorous and pragmatic, driven by technological expertise and analytics informed by real-world experience. We value employees who love to learn and have the tenacity, curiosity and willpower to contribute to our continuing success.&lt;/p&gt;\n&lt;p&gt;We are a small but passionate team, dedicated to enhancing and refining our tried and true methods as we commit to our ongoing growth and performance.&lt;/p&gt;\n&lt;p&gt;Quantiq runs considerable &quot;in-house&quot; infrastructure (IPA realm) consisting of 50-100 computers ranging from high performance servers and varied datacenter hardware (switches, FPGAs, fiber optic cabling), to desktop computers with dedicated GPUs and an array of monitors and peripherals across offices.&lt;/p&gt;\n&lt;p&gt;Quantiq controls the majority of the stack and creates, maintains, updates, and monitors a variety of systems to keep the company’s trading operational. Within our hardware infrastructure we run entirely on Fedora Linux and have significant first and third party software that requires occasional maintenance. This complete infrastructure has high uptime requirements to support our trading operations.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Description:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a System Administrator, you will be responsible for keeping all internal infrastructure, both hardware and software, running smoothly and supporting the operations and software teams on a day-to-day basis.&lt;/p&gt;\n&lt;p&gt;You will be responsible for full system life cycles: provisioning, install and setup, asset and inventory management, maintenance, monitoring, and decommission of a variety of systems. You will also deal with vendors to acquire new hardware and deploy it. You may occasionally find yourself setting up a desktop or monitor in addition to racking servers. If the following resonates with you, we would love to welcome you to our team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Troubleshoot and monitor proprietary frameworks/code and third-party systems&lt;/li&gt;\n&lt;li&gt;Manage access credentials to a variety of applications and trading systems&lt;/li&gt;\n&lt;li&gt;Exhibit cautious and responsible use of sysadmin privileges&lt;/li&gt;\n&lt;li&gt;Make infrequent trips to our Austin and Chicago datacenters to maintain hardware&lt;/li&gt;\n&lt;li&gt;Create, document, and enforce backup procedures and failovers in all systems&lt;/li&gt;\n&lt;li&gt;Run drills/trials and improve failure tolerances across infrastructure&lt;/li&gt;\n&lt;li&gt;Assist with onboarding new hires to in-house systems and infrastructure&lt;/li&gt;\n&lt;li&gt;Respond to issues and requests from the Operations and Technical teams&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in a Linux-based admin role, or equivalent&lt;/li&gt;\n&lt;li&gt;Attention to detail in a fast-paced environment&lt;/li&gt;\n&lt;li&gt;Ability to respond to occasional off-hour emergencies&lt;/li&gt;\n&lt;li&gt;Excellent organizational skills and strong written and verbal communication skills&lt;/li&gt;\n&lt;li&gt;Exceptional capability debugging and solving complex issues related to both hardware, low level software, and networking&lt;/li&gt;\n&lt;li&gt;Ability to perform Bash and Python scripting&lt;/li&gt;\n&lt;li&gt;Basic networking tool experience (ping, ifconfig, telnet, wireshark, nmcli)&lt;/li&gt;\n&lt;li&gt;Knowledge of network architecture is a plus&lt;/li&gt;\n&lt;li&gt;Experience with the following technologies:&lt;/li&gt;\n&lt;li&gt;\n&lt;ul&gt;\n&lt;li&gt;Computer hardware (such as Supermicro and Dell Servers)&lt;/li&gt;\n&lt;li&gt;Networking hardware&lt;/li&gt;\n&lt;li&gt;Fedora Linux&lt;/li&gt;\n&lt;li&gt;FreeIPA, OpenLDAP, OpenVPN&lt;/li&gt;\n&lt;li&gt;DNS&lt;/li&gt;\n&lt;li&gt;ZFS&lt;/li&gt;\n&lt;li&gt;Gitea, Zulip&lt;/li&gt;\n&lt;li&gt;GRUB, PXE&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;*&lt;em&gt;Note: You are not expected to know every technology listed but experience in all is a plus&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Please Apply If:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You run a home lab for fun and enjoy the sound of server fans&lt;/li&gt;\n&lt;li&gt;You are a problem solver who wants to understand the intricacies of a complex system&lt;/li&gt;\n&lt;li&gt;You are a distro hopper and can discuss the nuances of your preferred distribution&lt;/li&gt;\n&lt;li&gt;You are the type of person to remember the IP address of a certain machine on your network&lt;/li&gt;\n&lt;li&gt;You love to see nicely organized, color-coded, and labeled cables&lt;/li&gt;\n&lt;li&gt;Friends and family call you for tech support and you fix their problems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=&quot;relative w-full&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please note: The use of AI tools during applications, assessments, and interviews is strictly prohibited. Quantiq utilizes various methods to determine candidate authenticity. Use of these tools at any time may result in the disqualification of your candidacy.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 4057207009,
+          "name": "IT/SysAdmin",
+          "child_ids": [],
+          "parent_id": 4057203009
+        }
+      ],
+      "offices": [
+        {
+          "id": 4057291009,
+          "name": "Austin",
+          "location": "Austin, Texas, United States",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://app9.greenhouse.io/ai_opt_out_request/job_post/4280643009/ai_opt_out"
+    }
+  ],
+  "meta": {
+    "total": 11
+  }
+}

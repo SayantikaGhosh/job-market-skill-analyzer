@@ -1,0 +1,73 @@
+Total raw postings: 1394
+India postings: 324
+Classified target postings: 59
+
+Role breakdown:
+Analytics Engineer   | 1
+Backend Engineer     | 6
+Data Analyst         | 7
+Data Engineer        | 11
+Data Scientist       | 4
+Software Engineer    | 30
+
+Classified postings:
+Data Analyst         | Associate Operations Specialist | Pune, Maharashtra, India | greenhouse
+Software Engineer    | Sr. Software Engineer | Bengaluru, Karnataka, India | greenhouse
+Software Engineer    | Staff Software Engineer | Bengaluru, Karnataka, India | greenhouse
+Backend Engineer     | Backend Engineer | Gurugram, India | greenhouse
+Backend Engineer     | Backend Engineer | Gurugram, India | greenhouse
+Data Analyst         | Data Analyst | Gurugram, India | greenhouse
+Data Scientist       | Hands-On Engineering Leader AI Engineering-Predictive AI/Forecasting  | Gurugram, India | greenhouse
+Data Engineer        | Senior Data Engineer | Gurugram, India | greenhouse
+Software Engineer    | Software Engineer - AI | Gurugram, India | greenhouse
+Backend Engineer     | Sr Software Engineer (Backend Engineer) | Gurugram, India | greenhouse
+Backend Engineer     | Backend Engineer E2 - Ecosystem | India | greenhouse
+Analytics Engineer   | Analytics Engineer, India | Hyderabad, India | greenhouse
+Data Analyst         | Data Analyst, Labs | Hyderabad, India | greenhouse
+Software Engineer    | Senior Software Engineer, Backend  | Pune, India | greenhouse
+Data Engineer        | Senior Software Engineer, Data Engineering | Hyderabad, India | greenhouse
+Software Engineer    | Software Engineer, Backend | Pune, India | greenhouse
+Data Engineer        | Software Engineer, Data Engineer II | Hyderabad, India | greenhouse
+Data Engineer        | Staff Software Engineer, Data Engineering | Hyderabad, India | greenhouse
+Software Engineer    | Software Engineer, C++ | Gurugram, India | greenhouse
+Software Engineer    | Senior Software Engineer | India | greenhouse
+Software Engineer    | Senior Software Engineer | India | greenhouse
+Software Engineer    | Software Engineer | AI Platforms | India | greenhouse
+Software Engineer    | Software Engineer | Database Engine | India  | greenhouse
+Software Engineer    | Software Engineer | Private Cloud Systems | India | greenhouse
+Software Engineer    | Sr./Principal Software Engineer | India  | greenhouse
+Software Engineer    | Sr./Principal Software Engineer | United States, Portugal, India  | greenhouse
+Software Engineer    | Lead Software Engineer (On-Site) | Ahmedabad, Gujarat, India | greenhouse
+Software Engineer    | Senior FullStack Engineer  | Ahmedabad, Gujarat, India | greenhouse
+Data Engineer        | Lead Data Engineer With Snowflake | India | lever
+Software Engineer    | Lead Fullstack Engineer (Contract) | India | lever
+Data Engineer        | Senior Data Engineer( Snowflake , Azure) | India | lever
+Software Engineer    | Senior Fullstack Engineer .net | India | lever
+Software Engineer    | Senior Software Engineer | India | lever
+Software Engineer    | Senior Software Engineer - Java, Spring boot, Microservices | India | lever
+Software Engineer    | Senior Software Engineer - React Native | India | lever
+Software Engineer    | Senior Software Engineer-.Net/Angular | India | lever
+Data Engineer        | Data Engineer I (R-19281) | Hyderabad - India | lever
+Data Engineer        | Data Engineer II (R-19648) | Hyderabad - India | lever
+Data Scientist       | Data Scientist (R-19646) | Chennai - India | lever
+Data Scientist       | Senior Analyst - Data Science (R-19578) | Chennai - India | lever
+Backend Engineer     | Backend Engineer | India | lever
+Data Analyst         | Business Analyst - Customer Platform | India | lever
+Data Analyst         | GTM Operations | India | lever
+Backend Engineer     | SDE (Automation & Quality Focus) | India | lever
+Data Engineer        | Software Engineer (Data Engineering) | India | lever
+Data Analyst         | Senior Data Analyst | Bengaluru, India | lever
+Data Engineer        | Solutions Engineer | Bangalore, India | lever
+Software Engineer    | Staff Software Engineer | Bangalore, India | lever
+Software Engineer    | Lead Software Engineer - Platform Data Team | India | lever
+Software Engineer    | Staff Software Engineer - Platform Data Team | India | lever
+Data Analyst         | Data Analyst - India | Bangalore, India - Remote | lever
+Software Engineer    | Full Stack Software Engineer (Focus on Front End) - India | Bangalore, India - Remote | lever
+Software Engineer    | Software Engineer, Auth & Access - India | Bangalore, India - Remote | lever
+Data Engineer        | Senior Data Engineer | India | lever
+Data Scientist       | Senior Data Scientist | India | lever
+Software Engineer    | Senior PHP & Symfony Software Engineer, (Remote, Full-Time) - [HR191] | India | lever
+Software Engineer    | Senior Software Engineer | India | lever
+Software Engineer    | Software Engineer II | India | lever
+Software Engineer    | Software Engineer-III | India | lever
+(.venv) PS C:\Projects\job-market-skill-analyzer> 

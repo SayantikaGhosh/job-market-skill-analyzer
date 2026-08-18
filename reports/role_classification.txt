@@ -1,0 +1,73 @@
+========== ROLE CLASSIFICATION ==========
+Total unique jobs: 1397
+India jobs: 327
+Classified target jobs: 58
+Unclassified India jobs: 269
+
+Role breakdown:
+Data Analyst         | 6
+Data Engineer        | 11
+Analytics Engineer   | 1
+Data Scientist       | 4
+Backend Engineer     | 5
+Software Engineer    | 31
+
+Classified postings:
+Data Analyst         | 6sense | Associate Operations Specialist | Pune, Maharashtra, India | greenhouse
+Software Engineer    | 6sense | Sr. Software Engineer | Bengaluru, Karnataka, India | greenhouse
+Software Engineer    | 6sense | Staff Software Engineer | Bengaluru, Karnataka, India | greenhouse
+Backend Engineer     | Anaplan | Backend Engineer | Gurugram, India | greenhouse
+Backend Engineer     | Anaplan | Backend Engineer | Gurugram, India | greenhouse
+Data Analyst         | Anaplan | Data Analyst | Gurugram, India | greenhouse
+Data Scientist       | Anaplan | Hands-On Engineering Leader AI Engineering-Predictive AI/Forecasting  | Gurugram, India | greenhouse
+Data Engineer        | Anaplan | Senior Data Engineer | Gurugram, India | greenhouse
+Software Engineer    | Anaplan | Software Engineer - AI | Gurugram, India | greenhouse
+Backend Engineer     | Anaplan | Sr Software Engineer (Backend Engineer) | Gurugram, India | greenhouse
+Backend Engineer     | BitGo | Backend Engineer E2 - Ecosystem | India | greenhouse
+Analytics Engineer   | DoorDash India | Analytics Engineer, India | Hyderabad, India | greenhouse
+Data Analyst         | DoorDash India | Data Analyst, Labs | Hyderabad, India | greenhouse
+Software Engineer    | DoorDash India | Senior Software Engineer, Backend  | Pune, India | greenhouse
+Data Engineer        | DoorDash India | Senior Software Engineer, Data Engineering | Hyderabad, India | greenhouse
+Software Engineer    | DoorDash India | Software Engineer, Backend | Pune, India | greenhouse
+Data Engineer        | DoorDash India | Software Engineer, Data Engineer II | Hyderabad, India | greenhouse
+Data Engineer        | DoorDash India | Staff Software Engineer, Data Engineering | Hyderabad, India | greenhouse
+Software Engineer    | Quantiq | Software Engineer, C++ | Gurugram, India | greenhouse
+Software Engineer    | SingleStore | Senior Software Engineer | India | greenhouse
+Software Engineer    | SingleStore | Senior Software Engineer | India | greenhouse
+Software Engineer    | SingleStore | Software Engineer | AI Platforms | India | greenhouse
+Software Engineer    | SingleStore | Software Engineer | Database Engine | India  | greenhouse
+Software Engineer    | SingleStore | Software Engineer | Private Cloud Systems | India | greenhouse
+Software Engineer    | SingleStore | Sr./Principal Software Engineer | India  | greenhouse
+Software Engineer    | SingleStore | Sr./Principal Software Engineer | United States, Portugal, India  | greenhouse
+Software Engineer    | Tech Holding | Lead Software Engineer (On-Site) | Ahmedabad, Gujarat, India | greenhouse
+Software Engineer    | Tech Holding | Senior FullStack Engineer  | Ahmedabad, Gujarat, India | greenhouse
+Data Engineer        | 3pillar | Lead Data Engineer With Snowflake | India | lever
+Software Engineer    | 3pillar | Lead Fullstack Engineer (Contract) | India | lever
+Data Engineer        | 3pillar | Senior Data Engineer( Snowflake , Azure) | India | lever
+Software Engineer    | 3pillar | Senior Fullstack Engineer .net | India | lever
+Software Engineer    | 3pillar | Senior Software Engineer | India | lever
+Software Engineer    | 3pillar | Senior Software Engineer - Java, Spring boot, Microservices | India | lever
+Software Engineer    | 3pillar | Senior Software Engineer - React Native | India | lever
+Software Engineer    | 3pillar | Senior Software Engineer-.Net/Angular | India | lever
+Data Engineer        | dnb | Data Engineer II (R-19648) | Hyderabad - India | lever
+Data Scientist       | dnb | Data Scientist (R-19646) | Chennai - India | lever
+Data Scientist       | dnb | Senior Analyst - Data Science (R-19578) | Chennai - India | lever
+Data Engineer        | dnb | Data Engineer I (R-19281) | Hyderabad - India | lever
+Backend Engineer     | drivetrain | Backend Engineer | India | lever
+Data Engineer        | drivetrain | Software Engineer (Data Engineering) | India | lever
+Data Analyst         | drivetrain | GTM Operations | India | lever
+Data Analyst         | hevodata | Senior Data Analyst | Bengaluru, India | lever
+Data Engineer        | hevodata | Solutions Engineer | Bangalore, India | lever
+Software Engineer    | hevodata | Staff Software Engineer | Bangalore, India | lever
+Software Engineer    | highlevel | Application Engineer | India | lever
+Software Engineer    | highlevel | Lead Software Engineer - Platform Data Team | India | lever
+Software Engineer    | highlevel | Staff Software Engineer - Platform Data Team | India | lever
+Data Analyst         | jumpcloud | Data Analyst - India | Bangalore, India - Remote | lever
+Software Engineer    | jumpcloud | Full Stack Software Engineer (Focus on Front End) - India | Bangalore, India - Remote | lever
+Software Engineer    | jumpcloud | Software Engineer, Auth & Access - India | Bangalore, India - Remote | lever
+Data Engineer        | resilinc | Senior Data Engineer | India | lever
+Data Scientist       | resilinc | Senior Data Scientist | India | lever
+Software Engineer    | smart_working | Senior PHP & Symfony Software Engineer, (Remote, Full-Time) - [HR191] | India | lever
+Software Engineer    | spreetail | Senior Software Engineer | India | lever
+Software Engineer    | spreetail | Software Engineer II | India | lever
+Software Engineer    | spreetail | Software Engineer-III | India | lever

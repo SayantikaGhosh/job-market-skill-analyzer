@@ -1,0 +1,67 @@
+========== PHASE 2 SKILL INVENTORY ==========
+Classified postings: 58
+Postings with zero skill matches: 13
+
+Skill frequency:
+sql                  | 26
+python               | 21
+java                 | 10
+kubernetes           | 10
+react                | 10
+aws                  | 9
+spark                | 9
+azure                | 7
+gcp                  | 7
+airflow              | 7
+docker               | 6
+microservices        | 6
+c++                  | 5
+postgresql           | 5
+kafka                | 5
+snowflake            | 5
+node.js              | 5
+spring               | 5
+mongodb              | 4
+redshift             | 4
+spring boot          | 4
+github               | 4
+tableau              | 4
+javascript           | 3
+typescript           | 3
+scala                | 3
+mysql                | 3
+elasticsearch        | 3
+git                  | 3
+redis                | 2
+dbt                  | 2
+databricks           | 2
+django               | 2
+linux                | 2
+machine learning     | 2
+pytorch              | 2
+tensorflow           | 2
+power bi             | 2
+rust                 | 1
+php                  | 1
+angular              | 1
+rest api             | 1
+graphql              | 1
+bash                 | 1
+deep learning        | 1
+pandas               | 1
+numpy                | 1
+
+Postings with zero skill matches (dictionary gaps):
+3pillar              | Senior Fullstack Engineer .net | f660d5d7-6ad7-48a8-8196-2938334174b6
+3pillar              | Senior Software Engineer | 24e3ef31-5737-4a22-8095-bf7f2a63584b
+dnb                  | Data Engineer II (R-19648) | d4d27dd5-7b7f-4b5c-a5f1-dd9d81a604a2
+dnb                  | Senior Analyst - Data Science (R-19578) | 41ef6648-186a-4ee0-975c-a68aae3b79dc
+dnb                  | Data Engineer I (R-19281) | 8c782c46-4b9f-4913-a9e4-68f3ee8e4d06
+drivetrain           | Software Engineer (Data Engineering) | c677fe8d-8f9d-483e-b523-62c77e1a0fb7
+jumpcloud            | Data Analyst - India | 3cde05a3-b7e2-4aea-a5f0-e85f6974789c
+jumpcloud            | Full Stack Software Engineer (Focus on Front End) - India | 4ebbdea9-39c2-465d-bbdf-bf379a8e4a06
+resilinc             | Senior Data Engineer | 98e013c3-84ff-4596-8712-6401c0fb3d55
+resilinc             | Senior Data Scientist | b22b6c5a-420e-41a4-b40f-2ee6f5686e05
+spreetail            | Senior Software Engineer | 05840f90-552c-4fa9-91b5-99cf90a2778f
+spreetail            | Software Engineer II | 0ca9484b-5eb3-45c2-9ea6-64c3f8144a3a
+spreetail            | Software Engineer-III | 0d27e876-22ef-4f7e-bb32-d90becfa2806

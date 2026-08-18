@@ -1,0 +1,113 @@
+========== PHASE 2 SKILL EXTRACTION ==========
+Classified postings: 58
+Postings with at least one skill: 45
+Postings with zero skills: 13
+
+Skill frequency:
+sql                  | 26
+python               | 21
+java                 | 10
+kubernetes           | 10
+react                | 10
+aws                  | 9
+spark                | 9
+azure                | 7
+gcp                  | 7
+airflow              | 7
+docker               | 6
+microservices        | 6
+c++                  | 5
+postgresql           | 5
+kafka                | 5
+snowflake            | 5
+node.js              | 5
+spring               | 5
+mongodb              | 4
+redshift             | 4
+spring boot          | 4
+github               | 4
+tableau              | 4
+javascript           | 3
+typescript           | 3
+scala                | 3
+mysql                | 3
+elasticsearch        | 3
+git                  | 3
+redis                | 2
+dbt                  | 2
+databricks           | 2
+django               | 2
+linux                | 2
+machine learning     | 2
+pytorch              | 2
+tensorflow           | 2
+power bi             | 2
+rust                 | 1
+php                  | 1
+angular              | 1
+rest api             | 1
+graphql              | 1
+bash                 | 1
+deep learning        | 1
+pandas               | 1
+numpy                | 1
+
+Skills by posting:
+6sense               | Data Analyst         | Associate Operations Specialist | sql, tableau, power bi
+6sense               | Software Engineer    | Sr. Software Engineer | python, sql, redis, spark, react, django
+6sense               | Software Engineer    | Staff Software Engineer | python, java, sql, docker, kubernetes, django
+Anaplan              | Backend Engineer     | Backend Engineer | java, docker, kubernetes, spring, spring boot
+Anaplan              | Backend Engineer     | Backend Engineer | java, docker, kubernetes, spring, spring boot
+Anaplan              | Data Analyst         | Data Analyst | sql, aws, azure, gcp, power bi
+Anaplan              | Data Scientist       | Hands-On Engineering Leader AI Engineering-Predictive AI/Forecasting  | python, sql, aws, azure, spark, machine learning, deep learning, pytorch, tensorflow, pandas, numpy
+Anaplan              | Data Engineer        | Senior Data Engineer | python, sql, gcp, airflow, databricks, github, tableau
+Anaplan              | Software Engineer    | Software Engineer - AI | python, typescript, docker, kubernetes, react, microservices, machine learning, pytorch, tensorflow
+Anaplan              | Backend Engineer     | Sr Software Engineer (Backend Engineer) | java, docker, kubernetes, spring, spring boot
+BitGo                | Backend Engineer     | Backend Engineer E2 - Ecosystem | typescript, postgresql, mongodb, react, node.js, microservices, git, github
+DoorDash India       | Analytics Engineer   | Analytics Engineer, India | python, scala, sql, spark, airflow, dbt, snowflake, databricks, redshift, tableau
+DoorDash India       | Data Analyst         | Data Analyst, Labs | python, sql, snowflake, redshift
+DoorDash India       | Software Engineer    | Senior Software Engineer, Backend  | python, java, spark, airflow
+DoorDash India       | Data Engineer        | Senior Software Engineer, Data Engineering | python, java, sql, postgresql, aws, gcp, spark, kafka, redshift, tableau
+DoorDash India       | Software Engineer    | Software Engineer, Backend | python, java, spark, airflow
+DoorDash India       | Data Engineer        | Software Engineer, Data Engineer II | python, scala, sql, spark, kafka, airflow
+DoorDash India       | Data Engineer        | Staff Software Engineer, Data Engineering | python, scala, sql, spark, kafka, airflow
+Quantiq              | Software Engineer    | Software Engineer, C++ | c++
+SingleStore          | Software Engineer    | Senior Software Engineer | python, rust, sql, aws, azure, gcp, kubernetes, react
+SingleStore          | Software Engineer    | Senior Software Engineer | python, javascript, c++, sql, kubernetes, linux
+SingleStore          | Software Engineer    | Software Engineer | AI Platforms | python, sql, kubernetes
+SingleStore          | Software Engineer    | Software Engineer | Database Engine | c++, sql
+SingleStore          | Software Engineer    | Software Engineer | Private Cloud Systems | python, c++, sql, rest api, bash
+SingleStore          | Software Engineer    | Sr./Principal Software Engineer | sql, kubernetes, react
+SingleStore          | Software Engineer    | Sr./Principal Software Engineer | sql, kubernetes, react
+Tech Holding         | Software Engineer    | Lead Software Engineer (On-Site) | python, javascript, postgresql, mysql, mongodb, aws, azure, gcp, docker, react, node.js, graphql, git
+Tech Holding         | Software Engineer    | Senior FullStack Engineer  | python, javascript, sql, postgresql, mysql, aws, azure, gcp, react, node.js, git, linux
+3pillar              | Data Engineer        | Lead Data Engineer With Snowflake | snowflake
+3pillar              | Software Engineer    | Lead Fullstack Engineer (Contract) | typescript, sql, aws, react, node.js, github
+3pillar              | Data Engineer        | Senior Data Engineer( Snowflake , Azure) | azure, snowflake
+3pillar              | Software Engineer    | Senior Fullstack Engineer .net | 
+3pillar              | Software Engineer    | Senior Software Engineer | 
+3pillar              | Software Engineer    | Senior Software Engineer - Java, Spring boot, Microservices | java, spring, spring boot, microservices
+3pillar              | Software Engineer    | Senior Software Engineer - React Native | react
+3pillar              | Software Engineer    | Senior Software Engineer-.Net/Angular | angular
+dnb                  | Data Engineer        | Data Engineer II (R-19648) | 
+dnb                  | Data Scientist       | Data Scientist (R-19646) | python
+dnb                  | Data Scientist       | Senior Analyst - Data Science (R-19578) | 
+dnb                  | Data Engineer        | Data Engineer I (R-19281) | 
+drivetrain           | Backend Engineer     | Backend Engineer | java, postgresql, redis, elasticsearch, aws, spring
+drivetrain           | Data Engineer        | Software Engineer (Data Engineering) | 
+drivetrain           | Data Analyst         | GTM Operations | sql
+hevodata             | Data Analyst         | Senior Data Analyst | sql
+hevodata             | Data Engineer        | Solutions Engineer | sql, mysql, aws, azure, gcp, kafka, airflow, dbt, snowflake, redshift
+hevodata             | Software Engineer    | Staff Software Engineer | python, java, c++, sql, spark, kafka
+highlevel            | Software Engineer    | Application Engineer | microservices
+highlevel            | Software Engineer    | Lead Software Engineer - Platform Data Team | sql, mongodb, elasticsearch, microservices
+highlevel            | Software Engineer    | Staff Software Engineer - Platform Data Team | sql, mongodb, elasticsearch, microservices
+jumpcloud            | Data Analyst         | Data Analyst - India | 
+jumpcloud            | Software Engineer    | Full Stack Software Engineer (Focus on Front End) - India | 
+jumpcloud            | Software Engineer    | Software Engineer, Auth & Access - India | python, node.js, github
+resilinc             | Data Engineer        | Senior Data Engineer | 
+resilinc             | Data Scientist       | Senior Data Scientist | 
+smart_working        | Software Engineer    | Senior PHP & Symfony Software Engineer, (Remote, Full-Time) - [HR191] | php
+spreetail            | Software Engineer    | Senior Software Engineer | 
+spreetail            | Software Engineer    | Software Engineer II | 
+spreetail            | Software Engineer    | Software Engineer-III | 

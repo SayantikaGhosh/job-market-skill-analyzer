@@ -45,6 +45,23 @@ def normalize_greenhouse(job, snapshot_date, company_name):
 
 def normalize_lever(job, snapshot_date, company_name):
     categories = job.get("categories") or {}
+
+    description = job.get("descriptionPlain") or ""
+
+    # Lever stores job-specific responsibilities/requirements
+    # inside the `lists` field.
+    lists = job.get("lists") or []
+
+    for section in lists:
+        section_title = section.get("text") or ""
+        section_content = section.get("content") or ""
+
+        if section_title:
+            description += f"\n\n{section_title}"
+
+        if section_content:
+            description += f"\n{section_content}"
+
     return {
         "job_id": str(job.get("id") or ""),
         "source": "lever",
@@ -53,7 +70,7 @@ def normalize_lever(job, snapshot_date, company_name):
         "title": job.get("text") or "",
         "location": categories.get("location") or "",
         "country": job.get("country") or "",
-        "description": job.get("descriptionPlain") or "",
+        "description": description,
         "url": job.get("hostedUrl") or "",
         "posted_at": "",
     }

@@ -457,6 +457,10 @@
     "title": "Lead Data Engineer With Snowflake",
     "location": "India",
     "skills": [
+      "python",
+      "sql",
+      "mysql",
+      "mongodb",
       "snowflake"
     ]
   },
@@ -471,8 +475,11 @@
       "typescript",
       "sql",
       "aws",
+      "docker",
+      "kubernetes",
       "react",
       "node.js",
+      "microservices",
       "github"
     ]
   },
@@ -484,8 +491,23 @@
     "title": "Senior Data Engineer( Snowflake , Azure)",
     "location": "India",
     "skills": [
+      "python",
+      "java",
+      "scala",
+      "sql",
+      "mongodb",
+      "redis",
+      "aws",
       "azure",
-      "snowflake"
+      "gcp",
+      "spark",
+      "airflow",
+      "snowflake",
+      "redshift",
+      "machine learning",
+      "pandas",
+      "numpy",
+      "tableau"
     ]
   },
   {
@@ -495,7 +517,10 @@
     "role": "Software Engineer",
     "title": "Senior Fullstack Engineer .net",
     "location": "India",
-    "skills": []
+    "skills": [
+      "c#",
+      "sql"
+    ]
   },
   {
     "job_id": "24e3ef31-5737-4a22-8095-bf7f2a63584b",
@@ -504,7 +529,13 @@
     "role": "Software Engineer",
     "title": "Senior Software Engineer",
     "location": "India",
-    "skills": []
+    "skills": [
+      "c#",
+      "sql",
+      "azure",
+      "react",
+      "graphql"
+    ]
   },
   {
     "job_id": "43035257-6a08-4e1e-ac04-88c04188af29",
@@ -515,6 +546,10 @@
     "location": "India",
     "skills": [
       "java",
+      "sql",
+      "mysql",
+      "docker",
+      "kubernetes",
       "spring",
       "spring boot",
       "microservices"
@@ -528,7 +563,13 @@
     "title": "Senior Software Engineer - React Native",
     "location": "India",
     "skills": [
-      "react"
+      "java",
+      "javascript",
+      "typescript",
+      "react",
+      "graphql",
+      "github",
+      "github actions"
     ]
   },
   {
@@ -539,7 +580,31 @@
     "title": "Senior Software Engineer-.Net/Angular",
     "location": "India",
     "skills": [
-      "angular"
+      "c#",
+      "azure",
+      "docker",
+      "kubernetes",
+      "angular",
+      "microservices"
+    ]
+  },
+  {
+    "job_id": "df747fdf-2875-461d-b90b-a8b4d8e1bb35",
+    "source": "lever",
+    "company": "3pillar",
+    "role": "Data Engineer",
+    "title": "Snowflake Developer or Snowflake Migration Engineer with BI Connector Exp.",
+    "location": "India",
+    "skills": [
+      "python",
+      "sql",
+      "aws",
+      "terraform",
+      "airflow",
+      "snowflake",
+      "databricks",
+      "tableau",
+      "power bi"
     ]
   },
   {
@@ -549,7 +614,16 @@
     "role": "Data Engineer",
     "title": "Data Engineer II (R-19648)",
     "location": "Hyderabad - India",
-    "skills": []
+    "skills": [
+      "python",
+      "java",
+      "php",
+      "sql",
+      "mysql",
+      "aws",
+      "azure",
+      "gcp"
+    ]
   },
   {
     "job_id": "8eb0cdd5-1bf4-4865-9e84-7db8ec89fba2",
@@ -559,7 +633,30 @@
     "title": "Data Scientist (R-19646)",
     "location": "Chennai - India",
     "skills": [
-      "python"
+      "python",
+      "aws",
+      "azure",
+      "gcp",
+      "docker"
+    ]
+  },
+  {
+    "job_id": "d28ad755-5686-4219-9ba9-52bf37b1b506",
+    "source": "lever",
+    "company": "dnb",
+    "role": "Data Analyst",
+    "title": "Senior Analyst - AI Engineer (R-19628)",
+    "location": "Chennai - India",
+    "skills": [
+      "python",
+      "sql",
+      "databricks",
+      "redshift",
+      "fastapi",
+      "flask",
+      "pandas",
+      "numpy",
+      "power bi"
     ]
   },
   {
@@ -569,7 +666,26 @@
     "role": "Data Scientist",
     "title": "Senior Analyst - Data Science (R-19578)",
     "location": "Chennai - India",
-    "skills": []
+    "skills": [
+      "python",
+      "sql",
+      "fastapi",
+      "machine learning",
+      "pandas",
+      "numpy"
+    ]
+  },
+  {
+    "job_id": "09291136-0d2d-43c0-9a1c-f817997012e3",
+    "source": "lever",
+    "company": "dnb",
+    "role": "Data Analyst",
+    "title": "Senior Analyst (R-19558)",
+    "location": "Hyderabad - India",
+    "skills": [
+      "tableau",
+      "power bi"
+    ]
   },
   {
     "job_id": "8c782c46-4b9f-4913-a9e4-68f3ee8e4d06",
@@ -578,7 +694,12 @@
     "role": "Data Engineer",
     "title": "Data Engineer I (R-19281)",
     "location": "Hyderabad - India",
-    "skills": []
+    "skills": [
+      "python",
+      "sql",
+      "aws",
+      "azure"
+    ]
   },
   {
     "job_id": "e2aafad8-a785-4515-9e3f-2b4981b727b8",
@@ -603,7 +724,10 @@
     "role": "Data Engineer",
     "title": "Software Engineer (Data Engineering)",
     "location": "India",
-    "skills": []
+    "skills": [
+      "sql",
+      "dbt"
+    ]
   },
   {
     "job_id": "d7808cbe-0c2f-47f0-9261-f10f6cfea9aa",
@@ -624,7 +748,8 @@
     "title": "Senior Data Analyst",
     "location": "Bengaluru, India",
     "skills": [
-      "sql"
+      "sql",
+      "tableau"
     ]
   },
   {
@@ -671,6 +796,8 @@
     "title": "Application Engineer",
     "location": "India",
     "skills": [
+      "python",
+      "java",
       "microservices"
     ]
   },
@@ -684,7 +811,78 @@
     "skills": [
       "sql",
       "mongodb",
+      "redis",
       "elasticsearch",
+      "aws",
+      "azure",
+      "gcp",
+      "docker",
+      "kubernetes",
+      "terraform",
+      "spark",
+      "kafka",
+      "node.js",
+      "microservices"
+    ]
+  },
+  {
+    "job_id": "384b2340-7c0b-4806-a951-4fd261c78b12",
+    "source": "lever",
+    "company": "highlevel",
+    "role": "Backend Engineer",
+    "title": "SDE III - Whatsapp Voice",
+    "location": "India",
+    "skills": [
+      "java",
+      "typescript",
+      "postgresql",
+      "mongodb",
+      "redis",
+      "kafka",
+      "react",
+      "angular",
+      "vue",
+      "node.js",
+      "microservices"
+    ]
+  },
+  {
+    "job_id": "4ec92bca-2593-4081-85fb-c8288147939d",
+    "source": "lever",
+    "company": "highlevel",
+    "role": "Backend Engineer",
+    "title": "Software Development Engineer III - Conversations",
+    "location": "India",
+    "skills": [
+      "typescript",
+      "mongodb",
+      "redis",
+      "aws",
+      "gcp",
+      "docker",
+      "kubernetes",
+      "vue",
+      "node.js",
+      "microservices",
+      "github",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": "aa1ac843-c6a4-471f-8783-de8089e9d325",
+    "source": "lever",
+    "company": "highlevel",
+    "role": "Backend Engineer",
+    "title": "Software Development Engineer III (Fullstack ) - Workflows",
+    "location": "India",
+    "skills": [
+      "mongodb",
+      "gcp",
+      "docker",
+      "kubernetes",
+      "kafka",
+      "vue",
+      "rest api",
       "microservices"
     ]
   },
@@ -698,7 +896,17 @@
     "skills": [
       "sql",
       "mongodb",
+      "redis",
       "elasticsearch",
+      "aws",
+      "azure",
+      "gcp",
+      "docker",
+      "kubernetes",
+      "terraform",
+      "spark",
+      "kafka",
+      "node.js",
       "microservices"
     ]
   },
@@ -709,7 +917,12 @@
     "role": "Data Analyst",
     "title": "Data Analyst - India",
     "location": "Bangalore, India - Remote",
-    "skills": []
+    "skills": [
+      "python",
+      "sql",
+      "snowflake",
+      "tableau"
+    ]
   },
   {
     "job_id": "4ebbdea9-39c2-465d-bbdf-bf379a8e4a06",
@@ -718,7 +931,18 @@
     "role": "Software Engineer",
     "title": "Full Stack Software Engineer (Focus on Front End) - India",
     "location": "Bangalore, India - Remote",
-    "skills": []
+    "skills": [
+      "javascript",
+      "typescript",
+      "mongodb",
+      "redis",
+      "aws",
+      "kafka",
+      "vue",
+      "microservices",
+      "github",
+      "github actions"
+    ]
   },
   {
     "job_id": "756b176a-817b-4088-8eda-af8fbb389f9a",
@@ -729,7 +953,12 @@
     "location": "Bangalore, India - Remote",
     "skills": [
       "python",
+      "aws",
+      "docker",
+      "kubernetes",
+      "terraform",
       "node.js",
+      "microservices",
       "github"
     ]
   },
@@ -740,7 +969,14 @@
     "role": "Data Engineer",
     "title": "Senior Data Engineer",
     "location": "India",
-    "skills": []
+    "skills": [
+      "python",
+      "sql",
+      "azure",
+      "terraform",
+      "spark",
+      "databricks"
+    ]
   },
   {
     "job_id": "b22b6c5a-420e-41a4-b40f-2ee6f5686e05",
@@ -749,7 +985,17 @@
     "role": "Data Scientist",
     "title": "Senior Data Scientist",
     "location": "India",
-    "skills": []
+    "skills": [
+      "python",
+      "sql",
+      "aws",
+      "azure",
+      "spark",
+      "databricks",
+      "django",
+      "flask",
+      "machine learning"
+    ]
   },
   {
     "job_id": "3e9b3f8f-2dbc-4cfa-8eea-d39ba9d29330",
@@ -759,7 +1005,14 @@
     "title": "Senior PHP & Symfony Software Engineer, (Remote, Full-Time) - [HR191]",
     "location": "India",
     "skills": [
-      "php"
+      "javascript",
+      "typescript",
+      "php",
+      "mongodb",
+      "docker",
+      "kubernetes",
+      "react",
+      "node.js"
     ]
   },
   {
@@ -769,7 +1022,11 @@
     "role": "Software Engineer",
     "title": "Senior Software Engineer",
     "location": "India",
-    "skills": []
+    "skills": [
+      "aws",
+      "azure",
+      "microservices"
+    ]
   },
   {
     "job_id": "0ca9484b-5eb3-45c2-9ea6-64c3f8144a3a",
@@ -778,7 +1035,16 @@
     "role": "Software Engineer",
     "title": "Software Engineer II",
     "location": "India",
-    "skills": []
+    "skills": [
+      "python",
+      "postgresql",
+      "redis",
+      "aws",
+      "kafka",
+      "dbt",
+      "snowflake",
+      "fastapi"
+    ]
   },
   {
     "job_id": "0d27e876-22ef-4f7e-bb32-d90becfa2806",
@@ -787,6 +1053,8 @@
     "role": "Software Engineer",
     "title": "Software Engineer-III",
     "location": "India",
-    "skills": []
+    "skills": [
+      "aws"
+    ]
   }
 ]

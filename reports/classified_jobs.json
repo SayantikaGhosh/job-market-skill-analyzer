@@ -289,6 +289,14 @@
   },
   {
     "role": "Data Engineer",
+    "job_id": "df747fdf-2875-461d-b90b-a8b4d8e1bb35",
+    "source": "lever",
+    "company": "3pillar",
+    "title": "Snowflake Developer or Snowflake Migration Engineer with BI Connector Exp.",
+    "location": "India"
+  },
+  {
+    "role": "Data Engineer",
     "job_id": "d4d27dd5-7b7f-4b5c-a5f1-dd9d81a604a2",
     "source": "lever",
     "company": "dnb",
@@ -304,12 +312,28 @@
     "location": "Chennai - India"
   },
   {
+    "role": "Data Analyst",
+    "job_id": "d28ad755-5686-4219-9ba9-52bf37b1b506",
+    "source": "lever",
+    "company": "dnb",
+    "title": "Senior Analyst - AI Engineer (R-19628)",
+    "location": "Chennai - India"
+  },
+  {
     "role": "Data Scientist",
     "job_id": "41ef6648-186a-4ee0-975c-a68aae3b79dc",
     "source": "lever",
     "company": "dnb",
     "title": "Senior Analyst - Data Science (R-19578)",
     "location": "Chennai - India"
+  },
+  {
+    "role": "Data Analyst",
+    "job_id": "09291136-0d2d-43c0-9a1c-f817997012e3",
+    "source": "lever",
+    "company": "dnb",
+    "title": "Senior Analyst (R-19558)",
+    "location": "Hyderabad - India"
   },
   {
     "role": "Data Engineer",
@@ -381,6 +405,30 @@
     "source": "lever",
     "company": "highlevel",
     "title": "Lead Software Engineer - Platform Data Team",
+    "location": "India"
+  },
+  {
+    "role": "Backend Engineer",
+    "job_id": "384b2340-7c0b-4806-a951-4fd261c78b12",
+    "source": "lever",
+    "company": "highlevel",
+    "title": "SDE III - Whatsapp Voice",
+    "location": "India"
+  },
+  {
+    "role": "Backend Engineer",
+    "job_id": "4ec92bca-2593-4081-85fb-c8288147939d",
+    "source": "lever",
+    "company": "highlevel",
+    "title": "Software Development Engineer III - Conversations",
+    "location": "India"
+  },
+  {
+    "role": "Backend Engineer",
+    "job_id": "aa1ac843-c6a4-471f-8783-de8089e9d325",
+    "source": "lever",
+    "company": "highlevel",
+    "title": "Software Development Engineer III (Fullstack ) - Workflows",
     "location": "India"
   },
   {

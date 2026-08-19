@@ -1,15 +1,15 @@
 ========== ROLE CLASSIFICATION ==========
 Total unique jobs: 1397
 India jobs: 327
-Classified target jobs: 58
-Unclassified India jobs: 269
+Classified target jobs: 64
+Unclassified India jobs: 263
 
 Role breakdown:
-Data Analyst         | 6
-Data Engineer        | 11
+Data Analyst         | 8
+Data Engineer        | 12
 Analytics Engineer   | 1
 Data Scientist       | 4
-Backend Engineer     | 5
+Backend Engineer     | 8
 Software Engineer    | 31
 
 Classified postings:
@@ -49,9 +49,12 @@ Software Engineer    | 3pillar | Senior Software Engineer | India | lever
 Software Engineer    | 3pillar | Senior Software Engineer - Java, Spring boot, Microservices | India | lever
 Software Engineer    | 3pillar | Senior Software Engineer - React Native | India | lever
 Software Engineer    | 3pillar | Senior Software Engineer-.Net/Angular | India | lever
+Data Engineer        | 3pillar | Snowflake Developer or Snowflake Migration Engineer with BI Connector Exp. | India | lever
 Data Engineer        | dnb | Data Engineer II (R-19648) | Hyderabad - India | lever
 Data Scientist       | dnb | Data Scientist (R-19646) | Chennai - India | lever
+Data Analyst         | dnb | Senior Analyst - AI Engineer (R-19628) | Chennai - India | lever
 Data Scientist       | dnb | Senior Analyst - Data Science (R-19578) | Chennai - India | lever
+Data Analyst         | dnb | Senior Analyst (R-19558) | Hyderabad - India | lever
 Data Engineer        | dnb | Data Engineer I (R-19281) | Hyderabad - India | lever
 Backend Engineer     | drivetrain | Backend Engineer | India | lever
 Data Engineer        | drivetrain | Software Engineer (Data Engineering) | India | lever
@@ -61,6 +64,9 @@ Data Engineer        | hevodata | Solutions Engineer | Bangalore, India | lever
 Software Engineer    | hevodata | Staff Software Engineer | Bangalore, India | lever
 Software Engineer    | highlevel | Application Engineer | India | lever
 Software Engineer    | highlevel | Lead Software Engineer - Platform Data Team | India | lever
+Backend Engineer     | highlevel | SDE III - Whatsapp Voice | India | lever
+Backend Engineer     | highlevel | Software Development Engineer III - Conversations | India | lever
+Backend Engineer     | highlevel | Software Development Engineer III (Fullstack ) - Workflows | India | lever
 Software Engineer    | highlevel | Staff Software Engineer - Platform Data Team | India | lever
 Data Analyst         | jumpcloud | Data Analyst - India | Bangalore, India - Remote | lever
 Software Engineer    | jumpcloud | Full Stack Software Engineer (Focus on Front End) - India | Bangalore, India - Remote | lever

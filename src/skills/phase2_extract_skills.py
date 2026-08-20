@@ -3,13 +3,13 @@ import re
 from pathlib import Path
 
 
-CLASSIFIED_FILE = Path("reports/classified_jobs.json")
-JOBS_FILE = Path("data/deduplicated/jobs_deduplicated.json")
+CLASSIFIED_FILE = Path("../../reports/classified_jobs.json")
+JOBS_FILE = Path("../../data/deduplicated/jobs_deduplicated.json")
 
-OUTPUT_DIR = Path("data/processed")
+OUTPUT_DIR = Path("../../data/processed")
 OUTPUT_FILE = OUTPUT_DIR / "jobs_with_skills.json"
 
-REPORT_DIR = Path("reports")
+REPORT_DIR = Path("../../reports")
 REPORT_FILE = REPORT_DIR / "skill_extraction.txt"
 
 

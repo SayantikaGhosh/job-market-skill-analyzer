@@ -3,7 +3,7 @@ from collections import Counter
 from pathlib import Path
 
 
-RAW_DIR = Path("data/raw")
+RAW_DIR = Path("../../data/raw")
 COLLECTION_DATE = "2026-08-17"
 
 total = 0

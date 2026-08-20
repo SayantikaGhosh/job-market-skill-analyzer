@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 
-RAW_DIR = Path("data/raw/lever")
+RAW_DIR = Path("../../data/raw/lever")
 
 TARGET_IDS = {
     "60e8a6bd-f5e7-4dd6-beef-830c1c7be821",  # Wing Assistant

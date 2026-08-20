@@ -2,8 +2,8 @@ import json
 from pathlib import Path
 
 
-INPUT_FILE = Path("data/deduplicated/jobs_deduplicated.json")
-REPORT_DIR = Path("reports")
+INPUT_FILE = Path("../../data/deduplicated/jobs_deduplicated.json")
+REPORT_DIR = Path("../../reports")
 REPORT_FILE = REPORT_DIR / "role_classification.txt"
 CLASSIFIED_FILE = REPORT_DIR / "classified_jobs.json"
 

@@ -2,9 +2,9 @@ import json
 import re
 from pathlib import Path
 
-CLASSIFIED_FILE = Path("reports/classified_jobs.json")
-JOBS_FILE = Path("data/deduplicated/jobs_deduplicated.json")
-REPORT_DIR = Path("reports")
+CLASSIFIED_FILE = Path("../../reports/classified_jobs.json")
+JOBS_FILE = Path("../../data/deduplicated/jobs_deduplicated.json")
+REPORT_DIR = Path("../../reports")
 REPORT_TXT = REPORT_DIR / "skill_inventory.txt"
 REPORT_JSON = REPORT_DIR / "skill_inventory.json"
 

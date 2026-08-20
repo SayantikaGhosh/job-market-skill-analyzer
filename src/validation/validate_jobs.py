@@ -3,7 +3,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 
-INPUT_FILE = Path("data/deduplicated/jobs_deduplicated.json")
+INPUT_FILE = Path("../../data/deduplicated/jobs_deduplicated.json")
 
 
 def load_jobs():

@@ -2,8 +2,8 @@ import json
 from pathlib import Path
 
 
-RAW_DIR = Path("data/raw")
-OUTPUT_DIR = Path("data/processed")
+RAW_DIR = Path("../../data/raw")
+OUTPUT_DIR = Path("../../data/processed")
 OUTPUT_FILE = OUTPUT_DIR / "jobs_normalized.json"
 
 

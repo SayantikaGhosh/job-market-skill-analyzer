@@ -3,7 +3,7 @@ import re
 from pathlib import Path
 
 
-RAW_DIR = Path("data/raw")
+RAW_DIR = Path("../../data/raw")
 
 
 ROLE_KEYWORDS = {

@@ -3,12 +3,12 @@ import json
 from pathlib import Path
 
 
-INPUT_FILE = Path("data/processed/jobs_normalized.json")
+INPUT_FILE = Path("../../data/processed/jobs_normalized.json")
 
-OUTPUT_DIR = Path("data/deduplicated")
+OUTPUT_DIR = Path("../../data/deduplicated")
 OUTPUT_FILE = OUTPUT_DIR / "jobs_deduplicated.json"
 
-REPORT_DIR = Path("reports")
+REPORT_DIR = Path("../../reports")
 REPORT_FILE = REPORT_DIR / "dedup_report.csv"
 
 

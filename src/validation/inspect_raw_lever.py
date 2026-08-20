@@ -1,6 +1,6 @@
 import json
 
-FILE = "data/processed/jobs_normalized.json"
+FILE = "../../data/processed/jobs_normalized.json"
 TARGET_ID = "726a1832-21c3-464b-8903-7d3b3a14aa06"
 
 with open(FILE, "r", encoding="utf-8") as file:

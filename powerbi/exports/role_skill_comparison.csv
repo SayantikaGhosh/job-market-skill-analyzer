@@ -1,0 +1,71 @@
+role,skill,skill_count,percentage,skill_rank
+Data Engineer,sql,12,100.00,1
+Data Engineer,python,10,83.33,2
+Data Engineer,airflow,6,50.00,3
+Data Engineer,aws,6,50.00,3
+Data Engineer,azure,5,41.67,5
+Data Engineer,spark,5,41.67,5
+Data Engineer,gcp,5,41.67,5
+Data Engineer,kafka,4,33.33,8
+Data Engineer,tableau,4,33.33,8
+Data Engineer,snowflake,4,33.33,8
+Data Engineer,redshift,3,25.00,11
+Data Engineer,java,3,25.00,11
+Data Engineer,scala,3,25.00,11
+Data Engineer,mysql,3,25.00,11
+Data Engineer,databricks,3,25.00,11
+Data Engineer,mongodb,2,16.67,16
+Data Engineer,dbt,2,16.67,16
+Data Engineer,terraform,2,16.67,16
+Data Engineer,power bi,1,8.33,19
+Data Engineer,redis,1,8.33,19
+Data Engineer,pandas,1,8.33,19
+Data Engineer,numpy,1,8.33,19
+Data Engineer,github,1,8.33,19
+Data Engineer,machine learning,1,8.33,19
+Data Engineer,php,1,8.33,19
+Data Engineer,postgresql,1,8.33,19
+Software Engineer,sql,17,54.84,1
+Software Engineer,python,15,48.39,2
+Software Engineer,kubernetes,14,45.16,3
+Software Engineer,react,11,35.48,4
+Software Engineer,aws,11,35.48,4
+Software Engineer,microservices,10,32.26,6
+Software Engineer,docker,10,32.26,6
+Software Engineer,azure,8,25.81,8
+Software Engineer,node.js,7,22.58,9
+Software Engineer,java,7,22.58,9
+Software Engineer,spark,6,19.35,11
+Software Engineer,javascript,6,19.35,11
+Software Engineer,mongodb,5,16.13,13
+Software Engineer,typescript,5,16.13,13
+Software Engineer,kafka,5,16.13,13
+Software Engineer,redis,5,16.13,13
+Software Engineer,gcp,5,16.13,13
+Software Engineer,c++,5,16.13,13
+Software Engineer,github,4,12.90,19
+Software Engineer,terraform,3,9.68,20
+Software Engineer,graphql,3,9.68,20
+Software Engineer,mysql,3,9.68,20
+Software Engineer,postgresql,3,9.68,20
+Software Engineer,c#,3,9.68,20
+Software Engineer,linux,2,6.45,25
+Software Engineer,elasticsearch,2,6.45,25
+Software Engineer,git,2,6.45,25
+Software Engineer,github actions,2,6.45,25
+Software Engineer,django,2,6.45,25
+Software Engineer,airflow,2,6.45,25
+Software Engineer,tensorflow,1,3.23,31
+Software Engineer,spring boot,1,3.23,31
+Software Engineer,pytorch,1,3.23,31
+Software Engineer,machine learning,1,3.23,31
+Software Engineer,rust,1,3.23,31
+Software Engineer,bash,1,3.23,31
+Software Engineer,vue,1,3.23,31
+Software Engineer,snowflake,1,3.23,31
+Software Engineer,spring,1,3.23,31
+Software Engineer,dbt,1,3.23,31
+Software Engineer,php,1,3.23,31
+Software Engineer,rest api,1,3.23,31
+Software Engineer,fastapi,1,3.23,31
+Software Engineer,angular,1,3.23,31

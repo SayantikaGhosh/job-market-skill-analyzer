@@ -1,0 +1,134 @@
+role,skill,role_postings,role_percentage,total_skill_postings,role_share_of_skill
+Data Scientist,deep learning,1,25.00,1,100.00
+Software Engineer,bash,1,3.23,1,100.00
+Software Engineer,c#,3,9.68,3,100.00
+Software Engineer,c++,5,16.13,5,100.00
+Software Engineer,graphql,3,9.68,3,100.00
+Software Engineer,javascript,6,19.35,6,100.00
+Software Engineer,linux,2,6.45,2,100.00
+Software Engineer,rust,1,3.23,1,100.00
+Software Engineer,react,11,35.48,13,84.62
+Backend Engineer,spring,4,50.00,5,80.00
+Data Analyst,power bi,4,50.00,5,80.00
+Backend Engineer,spring boot,3,37.50,4,75.00
+Backend Engineer,vue,3,37.50,4,75.00
+Data Engineer,scala,3,25.00,4,75.00
+Software Engineer,kubernetes,14,45.16,19,73.68
+Software Engineer,microservices,10,32.26,14,71.43
+Software Engineer,node.js,7,22.58,10,70.00
+Data Engineer,airflow,6,50.00,9,66.67
+Software Engineer,django,2,6.45,3,66.67
+Software Engineer,elasticsearch,2,6.45,3,66.67
+Software Engineer,git,2,6.45,3,66.67
+Software Engineer,github actions,2,6.45,3,66.67
+Software Engineer,docker,10,32.26,16,62.50
+Software Engineer,typescript,5,16.13,8,62.50
+Data Scientist,machine learning,3,75.00,5,60.00
+Software Engineer,terraform,3,9.68,5,60.00
+Software Engineer,github,4,12.90,7,57.14
+Software Engineer,redis,5,16.13,9,55.56
+Backend Engineer,angular,1,12.50,2,50.00
+Backend Engineer,rest api,1,12.50,2,50.00
+Data Analyst,flask,1,12.50,2,50.00
+Data Engineer,databricks,3,25.00,6,50.00
+Data Engineer,dbt,2,16.67,4,50.00
+Data Engineer,mysql,3,25.00,6,50.00
+Data Engineer,php,1,8.33,2,50.00
+Data Engineer,redshift,3,25.00,6,50.00
+Data Engineer,snowflake,4,33.33,8,50.00
+Data Scientist,flask,1,25.00,2,50.00
+Data Scientist,numpy,2,50.00,4,50.00
+Data Scientist,pandas,2,50.00,4,50.00
+Data Scientist,pytorch,1,25.00,2,50.00
+Data Scientist,tensorflow,1,25.00,2,50.00
+Software Engineer,angular,1,3.23,2,50.00
+Software Engineer,mysql,3,9.68,6,50.00
+Software Engineer,php,1,3.23,2,50.00
+Software Engineer,pytorch,1,3.23,2,50.00
+Software Engineer,rest api,1,3.23,2,50.00
+Software Engineer,tensorflow,1,3.23,2,50.00
+Software Engineer,aws,11,35.48,23,47.83
+Software Engineer,azure,8,25.81,17,47.06
+Software Engineer,java,7,22.58,15,46.67
+Software Engineer,kafka,5,16.13,11,45.45
+Software Engineer,mongodb,5,16.13,11,45.45
+Software Engineer,python,15,48.39,33,45.45
+Data Analyst,tableau,4,50.00,9,44.44
+Data Engineer,tableau,4,33.33,9,44.44
+Backend Engineer,postgresql,3,37.50,7,42.86
+Software Engineer,postgresql,3,9.68,7,42.86
+Software Engineer,spark,6,19.35,14,42.86
+Software Engineer,sql,17,54.84,40,42.50
+Data Engineer,terraform,2,16.67,5,40.00
+Backend Engineer,typescript,3,37.50,8,37.50
+Backend Engineer,mongodb,4,50.00,11,36.36
+Data Engineer,kafka,4,33.33,11,36.36
+Data Engineer,gcp,5,41.67,14,35.71
+Data Engineer,spark,5,41.67,14,35.71
+Software Engineer,gcp,5,16.13,14,35.71
+Backend Engineer,elasticsearch,1,12.50,3,33.33
+Backend Engineer,git,1,12.50,3,33.33
+Backend Engineer,github actions,1,12.50,3,33.33
+Backend Engineer,java,5,62.50,15,33.33
+Backend Engineer,redis,3,37.50,9,33.33
+Data Analyst,fastapi,1,12.50,3,33.33
+Data Analyst,redshift,2,25.00,6,33.33
+Data Scientist,django,1,25.00,3,33.33
+Data Scientist,fastapi,1,25.00,3,33.33
+Software Engineer,fastapi,1,3.23,3,33.33
+Backend Engineer,docker,5,62.50,16,31.25
+Data Engineer,python,10,83.33,33,30.30
+Backend Engineer,node.js,3,37.50,10,30.00
+Data Engineer,sql,12,100.00,40,30.00
+Data Engineer,azure,5,41.67,17,29.41
+Backend Engineer,github,2,25.00,7,28.57
+Backend Engineer,microservices,4,50.00,14,28.57
+Backend Engineer,kubernetes,5,62.50,19,26.32
+Data Engineer,aws,6,50.00,23,26.09
+Analytics Engineer,dbt,1,100.00,4,25.00
+Analytics Engineer,scala,1,100.00,4,25.00
+Data Analyst,numpy,1,12.50,4,25.00
+Data Analyst,pandas,1,12.50,4,25.00
+Data Analyst,snowflake,2,25.00,8,25.00
+Data Engineer,numpy,1,8.33,4,25.00
+Data Engineer,pandas,1,8.33,4,25.00
+Software Engineer,dbt,1,3.23,4,25.00
+Software Engineer,spring boot,1,3.23,4,25.00
+Software Engineer,vue,1,3.23,4,25.00
+Software Engineer,airflow,2,6.45,9,22.22
+Data Engineer,java,3,25.00,15,20.00
+Data Engineer,machine learning,1,8.33,5,20.00
+Data Engineer,power bi,1,8.33,5,20.00
+Software Engineer,machine learning,1,3.23,5,20.00
+Software Engineer,spring,1,3.23,5,20.00
+Backend Engineer,kafka,2,25.00,11,18.18
+Data Engineer,mongodb,2,16.67,11,18.18
+Data Scientist,azure,3,75.00,17,17.65
+Data Analyst,sql,7,87.50,40,17.50
+Analytics Engineer,databricks,1,100.00,6,16.67
+Analytics Engineer,redshift,1,100.00,6,16.67
+Data Analyst,databricks,1,12.50,6,16.67
+Data Scientist,databricks,1,25.00,6,16.67
+Backend Engineer,react,2,25.00,13,15.38
+Backend Engineer,gcp,2,25.00,14,14.29
+Data Engineer,github,1,8.33,7,14.29
+Data Engineer,postgresql,1,8.33,7,14.29
+Data Scientist,spark,2,50.00,14,14.29
+Data Scientist,aws,3,75.00,23,13.04
+Analytics Engineer,snowflake,1,100.00,8,12.50
+Software Engineer,snowflake,1,3.23,8,12.50
+Data Scientist,python,4,100.00,33,12.12
+Analytics Engineer,airflow,1,100.00,9,11.11
+Analytics Engineer,tableau,1,100.00,9,11.11
+Data Engineer,redis,1,8.33,9,11.11
+Data Analyst,python,3,37.50,33,9.09
+Backend Engineer,aws,2,25.00,23,8.70
+Data Scientist,sql,3,75.00,40,7.50
+Analytics Engineer,spark,1,100.00,14,7.14
+Data Analyst,gcp,1,12.50,14,7.14
+Data Scientist,gcp,1,25.00,14,7.14
+Data Scientist,docker,1,25.00,16,6.25
+Data Analyst,azure,1,12.50,17,5.88
+Data Analyst,aws,1,12.50,23,4.35
+Analytics Engineer,python,1,100.00,33,3.03
+Analytics Engineer,sql,1,100.00,40,2.50

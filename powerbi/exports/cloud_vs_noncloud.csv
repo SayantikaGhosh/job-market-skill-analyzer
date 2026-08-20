@@ -1,0 +1,97 @@
+cloud_group,skill,posting_count,percentage
+Cloud,aws,23,82.14
+Cloud,azure,17,60.71
+Cloud,sql,17,60.71
+Cloud,python,15,53.57
+Cloud,gcp,14,50.00
+Cloud,microservices,9,32.14
+Cloud,docker,9,32.14
+Cloud,kubernetes,8,28.57
+Cloud,node.js,7,25.00
+Cloud,mongodb,7,25.00
+Cloud,spark,7,25.00
+Cloud,redis,7,25.00
+Cloud,kafka,7,25.00
+Cloud,react,5,17.86
+Cloud,postgresql,5,17.86
+Cloud,github,5,17.86
+Cloud,terraform,5,17.86
+Cloud,mysql,4,14.29
+Cloud,snowflake,4,14.29
+Cloud,java,4,14.29
+Cloud,tableau,4,14.29
+Cloud,airflow,4,14.29
+Cloud,databricks,4,14.29
+Cloud,typescript,3,10.71
+Cloud,elasticsearch,3,10.71
+Cloud,javascript,3,10.71
+Cloud,machine learning,3,10.71
+Cloud,redshift,3,10.71
+Cloud,vue,3,10.71
+Cloud,pandas,2,7.14
+Cloud,github actions,2,7.14
+Cloud,graphql,2,7.14
+Cloud,dbt,2,7.14
+Cloud,git,2,7.14
+Cloud,c#,2,7.14
+Cloud,power bi,2,7.14
+Cloud,numpy,2,7.14
+Cloud,django,1,3.57
+Cloud,spring,1,3.57
+Cloud,deep learning,1,3.57
+Cloud,tensorflow,1,3.57
+Cloud,angular,1,3.57
+Cloud,linux,1,3.57
+Cloud,php,1,3.57
+Cloud,pytorch,1,3.57
+Cloud,flask,1,3.57
+Cloud,rest api,1,3.57
+Cloud,rust,1,3.57
+Cloud,scala,1,3.57
+Cloud,fastapi,1,3.57
+Non-Cloud,sql,23,63.89
+Non-Cloud,python,18,50.00
+Non-Cloud,kubernetes,11,30.56
+Non-Cloud,java,11,30.56
+Non-Cloud,react,8,22.22
+Non-Cloud,spark,7,19.44
+Non-Cloud,docker,7,19.44
+Non-Cloud,microservices,5,13.89
+Non-Cloud,c++,5,13.89
+Non-Cloud,tableau,5,13.89
+Non-Cloud,airflow,5,13.89
+Non-Cloud,typescript,5,13.89
+Non-Cloud,snowflake,4,11.11
+Non-Cloud,kafka,4,11.11
+Non-Cloud,mongodb,4,11.11
+Non-Cloud,spring,4,11.11
+Non-Cloud,spring boot,4,11.11
+Non-Cloud,redshift,3,8.33
+Non-Cloud,javascript,3,8.33
+Non-Cloud,node.js,3,8.33
+Non-Cloud,scala,3,8.33
+Non-Cloud,power bi,3,8.33
+Non-Cloud,machine learning,2,5.56
+Non-Cloud,postgresql,2,5.56
+Non-Cloud,github,2,5.56
+Non-Cloud,fastapi,2,5.56
+Non-Cloud,mysql,2,5.56
+Non-Cloud,redis,2,5.56
+Non-Cloud,django,2,5.56
+Non-Cloud,dbt,2,5.56
+Non-Cloud,databricks,2,5.56
+Non-Cloud,numpy,2,5.56
+Non-Cloud,pandas,2,5.56
+Non-Cloud,pytorch,1,2.78
+Non-Cloud,git,1,2.78
+Non-Cloud,linux,1,2.78
+Non-Cloud,flask,1,2.78
+Non-Cloud,tensorflow,1,2.78
+Non-Cloud,php,1,2.78
+Non-Cloud,bash,1,2.78
+Non-Cloud,rest api,1,2.78
+Non-Cloud,angular,1,2.78
+Non-Cloud,vue,1,2.78
+Non-Cloud,c#,1,2.78
+Non-Cloud,github actions,1,2.78
+Non-Cloud,graphql,1,2.78

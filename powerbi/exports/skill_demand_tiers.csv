@@ -1,0 +1,54 @@
+skill,posting_count,percentage,demand_tier
+sql,40,62.50,Near-universal
+python,33,51.56,Near-universal
+aws,23,35.94,Common-but-optional
+kubernetes,19,29.69,Common-but-optional
+azure,17,26.56,Common-but-optional
+docker,16,25.00,Common-but-optional
+java,15,23.44,Common-but-optional
+microservices,14,21.88,Common-but-optional
+gcp,14,21.88,Common-but-optional
+spark,14,21.88,Common-but-optional
+react,13,20.31,Common-but-optional
+mongodb,11,17.19,Niche
+kafka,11,17.19,Niche
+node.js,10,15.63,Niche
+redis,9,14.06,Niche
+tableau,9,14.06,Niche
+airflow,9,14.06,Niche
+typescript,8,12.50,Niche
+snowflake,8,12.50,Niche
+github,7,10.94,Niche
+postgresql,7,10.94,Niche
+javascript,6,9.38,Niche
+databricks,6,9.38,Niche
+redshift,6,9.38,Niche
+mysql,6,9.38,Niche
+machine learning,5,7.81,Niche
+spring,5,7.81,Niche
+c++,5,7.81,Niche
+terraform,5,7.81,Niche
+power bi,5,7.81,Niche
+spring boot,4,6.25,Niche
+pandas,4,6.25,Niche
+dbt,4,6.25,Niche
+numpy,4,6.25,Niche
+vue,4,6.25,Niche
+scala,4,6.25,Niche
+graphql,3,4.69,Niche
+github actions,3,4.69,Niche
+elasticsearch,3,4.69,Niche
+fastapi,3,4.69,Niche
+c#,3,4.69,Niche
+git,3,4.69,Niche
+django,3,4.69,Niche
+flask,2,3.13,Niche
+rest api,2,3.13,Niche
+angular,2,3.13,Niche
+linux,2,3.13,Niche
+tensorflow,2,3.13,Niche
+php,2,3.13,Niche
+pytorch,2,3.13,Niche
+rust,1,1.56,Niche
+bash,1,1.56,Niche
+deep learning,1,1.56,Niche

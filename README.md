@@ -204,10 +204,67 @@ above):
 
 ---
 
+## Dashboard
+
+Built in **Power BI**, using CSV snapshots exported from the PostgreSQL
+analysis rather than a live Supabase connection. This was a deliberate
+choice: Power BI's native PostgreSQL connector has known SSL certificate
+compatibility issues with Supabase's custom certificate (confirmed via
+testing and multiple independent reports), and Power BI does not currently
+support DirectQuery/live connection with PostgreSQL as a data source in the
+first place. Rather than spend the project's time budget on
+connector/certificate troubleshooting, the 8 SQL analysis queries already
+written for Phase 3 are exported to CSV via an automated script and imported
+into Power BI as the report's data source.
+
+```
+PostgreSQL (Supabase)
+        │
+        ▼
+sql/analysis/*.sql          → 8 analytical queries (window functions, CTEs)
+        │
+        ▼
+export_powerbi.py           → runs each query, writes one CSV per query
+        │                      to data/exports/
+        ▼
+Power BI (.pbix)             → 4 report pages built on the exported snapshots
+```
+
+**Trade-off, stated plainly:** the dashboard reflects a point-in-time
+snapshot of the analysis, not a live database connection. Re-running
+`export_powerbi.py` and refreshing the Power BI data source is how the
+dashboard would be updated if the underlying data changes — this is a
+common, legitimate pattern (not every production BI dashboard is
+live-connected either), and it avoids the Supabase/Power BI connector issue
+entirely rather than working around it.
+
+### Report pages
+
+- **Overview** — classified job distribution by role, top overall skill
+  demand, and the headline SQL/BI-tool finding surfaced prominently (not
+  buried in a chart): of the 40 postings requiring SQL, 20% also require
+  Tableau, 10% also require Power BI, and only 2 postings require both.
+- **Role Analysis** — Software Engineer vs. Data Engineer skill comparison
+  (the two roles with sufficient sample size), plus a separate section for
+  Data Analyst, Backend Engineer, Data Scientist, and Analytics Engineer
+  with explicit sample-size warnings, since these categories range from
+  n=8 down to n=1 and are not statistically representative.
+- **Skill Analysis** — SQL/BI-tool co-occurrence, role-specific skill
+  concentration, cloud vs. non-cloud skill demand, and skill demand tiers
+  (near-universal / common-but-optional / niche).
+- **Methodology** — documents the data pipeline, analytical approach, the
+  snapshot-based Power BI architecture and why it was chosen, and known
+  limitations.
+
+Repo includes the completed `.pbix` file and all 8 exported CSV analysis
+snapshots used to build it.
+
+---
+
 ## Tech stack
 
-Python (`requests`, `pandas`), PostgreSQL (Supabase), SQL (window functions,
-CTEs), Streamlit *(dashboard — in progress)*, Greenhouse/Lever public APIs.
+Python (`requests`, `pandas`, `psycopg2`), PostgreSQL (Supabase), SQL
+(window functions, CTEs), Power BI, Greenhouse/Lever public APIs.
 
 ---
 
@@ -216,5 +273,5 @@ CTEs), Streamlit *(dashboard — in progress)*, Greenhouse/Lever public APIs.
 - ✅ Phase 1 — Data collection
 - ✅ Phase 2 — Cleaning and skill extraction
 - ✅ Phase 3 — Database modeling and SQL analysis
-- 🚧 Phase 4 — Streamlit dashboard
-- ⬜ Phase 5 — Deployment
+- ✅ Phase 4 — Power BI dashboard
+- ⬜ Phase 5 — Deployment / publish to web
